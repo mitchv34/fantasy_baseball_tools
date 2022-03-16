@@ -1,0 +1,969 @@
+IDFANGRAPHS,ID,Player,Position,Status,Age,ADP,Cost
+19709,*03zbh*,Fernando Tatis Jr.,"SS,OF",Pinstrip,23,2.45,17.0
+20123,*03ynj*,Juan Soto,OF,Hit,23,2.69,12.0
+16252,*02c68*,Trea Turner,"2B,SS",Scavenge,28,3.35,1.0
+19611,*03ojr*,Vladimir Guerrero Jr.,1B,lasmimis,22,4.77,12.0
+13510,*01ub6*,Jose Ramirez,3B,La Maqui,29,5.0,1.0
+19612,*041qb*,Bo Bichette,SS,La Maqui,23,7.88,16.0
+13125,*01spo*,Gerrit Cole,SP,La Maqui,31,8.06,2.0
+19755,*02yc4*,Shohei Ohtani,"UT,SP",miche,27,8.55,7.0
+19361,*041rd*,Corbin Burnes,SP,miche,27,9.26,18.0
+11579,*01fh9*,Bryce Harper,OF,Canha Ge,29,9.97,1.0
+18401,*03wha*,Ronald Acuna Jr.,OF,METS,24,11.29,6.0
+19374,*03aac*,Walker Buehler,SP,La Maqui,27,12.58,3.0
+10155,*01s8u*,Mike Trout,OF,miche,30,13.56,1.0
+18345,*03pir*,Kyle Tucker,OF,miche,24,15.4,13.0
+13611,*02btf*,Mookie Betts,OF,sfernand,29,15.44,1.0
+16162,*02bu3*,Brandon Woodruff,SP,Canha Ge,28,17.29,15.0
+3137,*004ee*,Max Scherzer,SP,SLG,37,17.51,1.0
+17350,*030uc*,Rafael Devers,3B,sfernand,25,19.64,6.0
+10310,*01sb3*,Zack Wheeler,SP,SLG,31,19.77,8.0
+5361,*01cgo*,Freddie Freeman,1B,lasmimis,32,20.6,1.0
+10954,*02hjp*,Jacob deGrom,SP,99 prob,33,21.22,2.0
+16556,*03fi0*,Ozzie Albies,2B,METS,25,21.62,8.0
+20043,*047l7*,Luis Robert,OF,Canha Ge,24,23.46,30.0
+19427,*041rf*,Shane Bieber,SP,99 prob,26,24.28,8.0
+14765,*02vl6*,Julio Urias,SP,99 prob,25,29.64,11.0
+11493,*01svq*,Manny Machado,3B,Canha Ge,29,29.95,2.0
+19556,*04355*,Yordan Alvarez,OF,CALIXTO,24,30.08,30.0
+12533,*02bu9*,Marcus Semien,"2B,SS",Hit,31,30.22,16.0
+18684,*03btv*,Sandy Alcantara,SP,METS,26,30.87,30.0
+17929,*03qr0*,Cedric Mullins,OF,CALIXTO,27,30.99,30.0
+11486,*025j1*,Robbie Ray,SP,Pinstrip,30,31.72,15.0
+16149,*02i3o*,Aaron Nola,SP,CALIXTO,28,33.62,4.0
+15640,*02z0s*,Aaron Judge,OF,miche,29,35.24,5.0
+15474,*02i37*,Lucas Giolito,SP,miche,27,35.44,17.0
+14344,*02mwm*,Matt Olson,1B,Canha Ge,27,38.23,4.0
+9241,*01s9k*,Starling Marte,OF,99 prob,33,39.87,2.0
+11281,*02hjk*,Whit Merrifield,"2B,OF",Scavenge,32,40.17,3.0
+13066,*02xic*,Teoscar Hernandez,OF,Pinstrip,29,41.4,30.0
+18679,*03dc4*,Freddy Peralta,SP,miche,25,42.79,22.0
+7304,*01u75*,Salvador Perez,C,sfernand,31,43.67,20.0
+12161,*025gb*,Xander Bogaerts,SS,Hit,29,45.82,4.0
+23667,*04csx*,Wander Franco,SS,Scavenge,20,47.81,30.0
+14107,*02hi7*,Kevin Gausman,SP,99 prob,31,48.69,30.0
+10603,*01uca*,Chris Sale,SP,Scavenge,32,49.37,4.0
+17479,*03d6w*,Jack Flaherty,SP,miche,26,49.91,4.0
+12564,*02bqh*,Trevor Story,SS,lasmimis,29,50.33,7.0
+9218,*01ual*,Paul Goldschmidt,1B,CALIXTO,34,52.35,3.0
+2520,*01s94*,Lance Lynn,SP,Pinstrip,34,54.51,8.0
+15689,*03nuc*,Luis Castillo,SP,Scavenge,29,54.55,6.0
+18360,*03pom*,Austin Riley,3B,Pinstrip,24,54.96,19.0
+17484,*030ud*,Eloy Jimenez,OF,99 prob,25,57.56,16.0
+5417,*024m0*,Jose Altuve,2B,CALIXTO,31,58.23,2.0
+12856,*025he*,George Springer,OF,sfernand,32,58.45,1.0
+19251,*041pz*,Pete Alonso,1B,SLG,27,58.88,17.0
+15172,*03110*,Tim Anderson,SS,METS,28,59.08,15.0
+11737,*01uc9*,Nick Castellanos,OF,La Maqui,29,59.45,30.0
+14168,*02mwk*,Jose Berrios,SP,sfernand,27,59.77,5.0
+17995,*03dbm*,Logan Webb,SP,SLG,25,60.78,30.0
+3548,*01ub8*,Liam Hendriks,RP,CALIXTO,32,61.0,15.0
+12916,*02611*,Francisco Lindor,SS,Pinstrip,28,61.65,1.0
+18882,*03qjy*,Brandon Lowe,2B,Scavenge,27,62.21,11.0
+17678,*02w7p*,Alex Bregman,3B,Canha Ge,27,63.09,3.0
+14212,*02n96*,Josh Hader,RP,miche,27,64.23,10.0
+14161,*02i2k*,Byron Buxton,OF,miche,28,64.51,24.0
+13743,*02i2j*,Max Fried,SP,CALIXTO,27,68.36,13.0
+15711,*02yk4*,Tyler O'Neill,OF,Canha Ge,26,68.58,30.0
+13624,*02mw6*,Corey Seager,SS,CALIXTO,27,69.73,6.0
+12970,*02bqy*,Joe Musgrove,SP,Hit,29,69.87,25.0
+14309,*02yg3*,Frankie Montas,SP,CALIXTO,28,70.77,16.0
+19290,*040b5*,Randy Arozarena,OF,Scavenge,26,71.92,30.0
+9777,*01sy3*,Nolan Arenado,3B,Canha Ge,30,72.0,1.0
+15676,*02i2e*,Jose Abreu,1B,CALIXTO,34,74.67,30.0
+18525,*03df2*,Dylan Cease,SP,lasmimis,26,75.36,17.0
+13769,*02i3g*,Adalberto Mondesi,3B,99 prob,26,76.18,5.0
+22286,*04ak5*,Trevor Rogers,SP,CALIXTO,24,76.67,30.0
+4676,*005jn*,Charlie Morton,SP,Canha Ge,38,76.91,3.0
+26410,*04yfw*,Alek Manoah,SP,CALIXTO,24,78.15,30.0
+11739,*025i9*,J.T. Realmuto,C,CALIXTO,30,79.42,6.0
+14162,*02i2q*,Carlos Correa,SS,miche,27,80.04,6.0
+12979,*026mn*,Javier Baez,"2B,SS",Hit,29,86.35,7.0
+19197,*042sz*,Will Smith,C,Pinstrip,26,86.77,14.0
+13074,*01c5l*,Yu Darvish,SP,La Maqui,35,88.04,5.0
+19326,*03e5m*,Bryan Reynolds,OF,Canha Ge,26,88.29,17.0
+13152,*02yd1*,Jorge Polanco,"2B,SS",sfernand,28,89.77,7.0
+14274,*02mwj*,Mitch Haniger,OF,Hit,31,90.29,27.0
+6184,*02334*,J.D. Martinez,OF,CALIXTO,34,91.45,1.0
+13613,*0326s*,Ketel Marte,"2B,OF",CALIXTO,28,91.63,16.0
+21523,*04nx3*,Jonathan India,2B,lasmimis,25,92.32,30.0
+21483,*04mlt*,Shane McClanahan,SP,sfernand,24,92.64,30.0
+4949,*01cdf*,Giancarlo Stanton,OF,99 prob,32,92.65,4.0
+13590,*02mwg*,Jesse Winker,OF,METS,28,95.09,30.0
+15429,*01ubo*,Kris Bryant,"3B,OF",METS,30,95.38,2.0
+15998,*03120*,Cody Bellinger,OF,Pinstrip,26,97.13,2.0
+16137,*02c2r*,Carlos Rodon,SP,lasmimis,29,97.32,30.0
+20454,*045qo*,Jazz Chisholm Jr.,"2B,SS",METS,23,98.15,30.0
+11477,*025dn*,Christian Yelich,OF,Hit,30,98.41,2.0
+17130,*03aqv*,Raisel Iglesias,RP,Canha Ge,32,98.47,8.0
+13301,*02mzg*,Max Muncy,"1B,2B",SLG,31,99.6,3.0
+16358,*0312g*,Tyler Mahle,SP,Canha Ge,27,102.32,30.0
+14128,*02i3v*,Joey Gallo,OF,Hit,28,102.65,12.0
+17085,*043f9*,Pablo Lopez,SP,sfernand,25,103.31,30.0
+14120,*026l1*,Lance McCullers Jr.,SP,miche,28,103.31,12.0
+19470,*041sq*,Tommy Edman,"2B,OF",FA,26,105.01,21.0
+13543,*02bqr*,Blake Snell,SP,Hit,29,108.71,6.0
+19291,*041qo*,Zac Gallen,SP,Scavenge,26,111.63,12.0
+11368,*01uqq*,Yasmani Grandal,C,Scavenge,33,112.85,6.0
+9132,*01ut7*,Nathan Eovaldi,SP,lasmimis,31,113.14,30.0
+14710,*02my5*,Edwin Diaz,RP,99 prob,27,113.69,8.0
+sa3011225,*04lgp*,Bobby Witt Jr.,SS,99 prob,21,113.74,30.0
+12861,*01tt9*,Anthony Rendon,3B,FA,31,114.06,2.0
+16478,*03cag*,Kyle Schwarber,OF,CALIXTO,28,115.23,6.0
+14566,*02i3z*,Franmil Reyes,UT,Canha Ge,26,118.27,6.0
+15672,*02k18*,Austin Meadows,OF,Canha Ge,26,119.13,16.0
+22558,*04ggr*,Jarred Kelenic,OF,Scavenge,22,119.64,30.0
+17295,*04auj*,Framber Valdez,SP,lasmimis,28,120.13,30.0
+12304,*02c2h*,Chris Bassitt,SP,99 prob,32,121.92,30.0
+22264,*04cwf*,Shane Baz,SP,sfernand,22,124.73,30.0
+8700,*000dp*,Justin Verlander,SP,FA,38,126.58,2.0
+18036,*03qmh*,Jake Cronenworth,"1B,2B,SS",La Maqui,27,126.85,30.0
+18373,*03pjl*,Ryan Mountcastle,"1B,OF",sfernand,24,127.76,30.0
+7005,*02zif*,Ryan Pressly,RP,miche,33,128.86,10.0
+10233,*01gya*,Aroldis Chapman,RP,Pinstrip,33,128.95,4.0
+19951,*041m0*,Ian Anderson,SP,METS,23,129.77,30.0
+23735,*04ni3*,Luis Garcia,SP,SLG,25,129.99,30.0
+9874,*01sfi*,DJ LeMahieu,"1B,2B,3B",sfernand,33,130.72,16.0
+18314,*03ae8*,Dansby Swanson,SS,sfernand,27,131.17,15.0
+15873,*02x0f*,Sean Manaea,SP,CALIXTO,29,131.65,9.0
+22250,*04n0m*,Logan Gilbert,SP,sfernand,24,131.76,30.0
+18564,*03pit*,Trent Grisham,OF,lasmimis,25,132.0,30.0
+19918,*04efa*,Daulton Varsho,"C,OF",Hit,25,132.21,30.0
+18607,*04p9n*,Jared Walsh,1B,METS,28,133.77,30.0
+21032,*04ug5*,Emmanuel Clase,RP,CALIXTO,23,134.73,30.0
+17232,*03eet*,Yoan Moncada,3B,99 prob,26,138.03,8.0
+17277,*03et8*,Ranger Suarez,"SP,RP",La Maqui,26,140.28,30.0
+2036,*005ih*,Clayton Kershaw,SP,Scavenge,33,142.67,2.0
+15986,*03atq*,Willy Adames,SS,sfernand,26,142.67,30.0
+13431,*02hg4*,Marcus Stroman,SP,sfernand,30,144.67,14.0
+16472,*03de9*,Rhys Hoskins,1B,METS,28,145.46,7.0
+5254,*01seb*,Robbie Grossman,OF,Pinstrip,32,146.33,30.0
+3096,*01svz*,Kenley Jansen,RP,SLG,34,146.87,7.0
+13164,*029si*,Eduardo Rodriguez,SP,Scavenge,28,147.73,12.0
+12808,*02bsw*,Mike Clevinger,SP,Pinstrip,31,150.09,3.0
+4314,*00031*,Joey Votto,1B,miche,38,150.27,15.0
+15890,*03ab0*,Luis Severino,RP,miche,27,150.28,27.0
+2233,*000wm*,Adam Wainwright,SP,METS,40,150.54,29.0
+19238,*03nri*,Lourdes Gurriel Jr.,OF,Canha Ge,28,150.59,12.0
+20126,*041mc*,Dylan Carlson,OF,miche,23,152.26,30.0
+11609,*03oh0*,Willson Contreras,C,Hit,29,153.65,12.0
+16505,*03d6s*,Matt Chapman,3B,Pinstrip,28,154.73,5.0
+22267,*04ptt*,Tarik Skubal,SP,La Maqui,25,154.82,30.0
+16997,*031t0*,Gleyber Torres,SS,Pinstrip,25,156.69,10.0
+13757,*02u47*,Chris Taylor,"2B,SS,OF",SLG,31,157.0,30.0
+12546,*02bq4*,C.J. Cron,1B,Canha Ge,32,157.06,26.0
+12768,*0260v*,Sonny Gray,SP,Hit,32,157.5,7.0
+16376,*02z0t*,Michael Conforto,OF,lasmimis,28,160.72,9.0
+15464,*03022*,Hunter Renfroe,OF,Canha Ge,29,160.99,19.0
+16122,*03di6*,Jordan Romano,RP,Canha Ge,28,161.54,30.0
+17027,*03d7g*,Alex Verdugo,OF,99 prob,25,162.08,11.0
+17620,*03qqb*,Myles Straw,OF,FA,27,163.77,
+13145,*026lz*,Josh Bell,1B,Hit,29,165.09,8.0
+18577,*03pji*,Ke'Bryan Hayes,3B,Hit,24,167.08,30.0
+17907,*03lua*,Brendan Rodgers,"2B,SS",99 prob,25,168.04,30.0
+17282,*03d6v*,Michael Kopech,RP,lasmimis,25,168.46,30.0
+19287,*04aq4*,Adolis Garcia,OF,La Maqui,28,171.04,30.0
+5235,*01lum*,Justin Turner,3B,CALIXTO,37,172.13,6.0
+8048,*01skh*,Will Smith,RP,Pinstrip,32,174.63,6.0
+14444,*02xik*,Hyun Jin Ryu,SP,Canha Ge,34,174.86,7.0
+14221,*02i11*,Jorge Soler,OF,sfernand,29,175.14,6.0
+15038,*03amq*,German Marquez,SP,sfernand,26,175.68,8.0
+18413,*0440h*,Jose Urquidy,SP,Canha Ge,26,176.0,30.0
+22168,*041qi*,Akil Baddoo,OF,lasmimis,23,178.05,30.0
+19879,*03djk*,Tanner Houck,SP,lasmimis,25,178.71,30.0
+17919,*03nmw*,Ian Happ,OF,miche,27,178.86,15.0
+26197,*04si2*,Andrew Vaughn,OF,SLG,23,180.69,30.0
+2434,*0001d*,Nelson Cruz,UT,SLG,41,180.99,3.0
+15112,*0310n*,Ryan McMahon,"2B,3B",METS,27,185.44,20.0
+17982,*03whq*,Ty France,"1B,2B",La Maqui,27,188.82,30.0
+11762,*025ew*,Noah Syndergaard,SP,lasmimis,29,188.82,4.0
+5760,*01urw*,Avisail Garcia,OF,SLG,30,189.9,9.0
+16622,*03o43*,Luis Urias,"2B,3B,SS",miche,24,190.92,30.0
+sa3011643,*04q2n*,Adley Rutschman,C,Hit,23,192.99,30.0
+20468,*03gl9*,Huascar Ynoa,SP,lasmimis,23,194.35,30.0
+13781,*02mwv*,Alex Wood,SP,CALIXTO,31,194.53,22.0
+12552,*02jh6*,Eugenio Suarez,"3B,SS",Scavenge,30,195.5,3.0
+16269,*03dim*,John Means,SP,Canha Ge,28,195.77,24.0
+5343,*01sdl*,Brandon Crawford,SS,99 prob,34,196.68,30.0
+20492,*04mlf*,Casey Mize,SP,Pinstrip,24,196.81,30.0
+19447,*03qpi*,Patrick Sandoval,SP,miche,25,196.81,30.0
+3473,*01sea*,Anthony Rizzo,1B,99 prob,32,197.62,1.0
+14986,*03mul*,Giovanny Gallegos,RP,Canha Ge,30,198.12,8.0
+13050,*02but*,Anthony DeSclafani,SP,METS,31,198.19,17.0
+15518,*02yh5*,Amed Rosario,SS,CALIXTO,26,198.27,25.0
+19479,*041qr*,Aaron Civale,SP,sfernand,26,198.71,15.0
+21390,*04ps7*,Joe Ryan,SP,Canha Ge,25,199.71,30.0
+16511,*03dbo*,Jordan Montgomery,SP,99 prob,29,200.53,17.0
+6655,*01scl*,Craig Kimbrel,RP,CALIXTO,33,200.95,10.0
+17988,*03pix*,Tyler Stephenson,"C,1B",sfernand,25,202.54,30.0
+18000,*03pon*,Triston McKenzie,SP,miche,24,203.53,30.0
+12532,*026m0*,Kolten Wong,2B,METS,31,204.54,16.0
+17901,*03pdw*,Andrew Benintendi,OF,METS,27,204.9,7.0
+19566,*041xv*,Nate Lowe,1B,Scavenge,26,206.17,30.0
+19363,*041qs*,Austin Hays,OF,lasmimis,26,206.24,30.0
+9166,*01c5s*,Buster Posey,C,miche,34,206.38,23.0
+15149,*031c4*,Trey Mancini,1B,METS,29,208.18,30.0
+20325,*041m2*,Alex Kirilloff,"1B,OF",Canha Ge,24,208.45,30.0
+19312,*03yxh*,Cal Quantrill,"SP,RP",La Maqui,26,209.12,30.0
+11445,*025eo*,Mark Canha,OF,99 prob,32,209.86,13.0
+19955,*041ai*,Gavin Lux,"2B,SS",miche,24,211.15,30.0
+17128,*03dp8*,Ramon Laureano,OF,FA,27,214.22,8.0
+10950,*027ow*,Adam Duvall,OF,Pinstrip,33,219.05,30.0
+5933,*01suo*,Jean Segura,2B,Scavenge,31,221.13,10.0
+20220,*04aee*,Jo Adell,OF,CALIXTO,22,222.62,30.0
+10264,*01uwk*,Brandon Belt,1B,SLG,33,224.21,30.0
+4264,*01cyw*,Mark Melancon,RP,CALIXTO,36,224.27,13.0
+19610,*03rmz*,Keibert Ruiz,C,miche,23,224.86,30.0
+12155,*025f7*,Eddie Rosario,OF,La Maqui,30,225.13,6.0
+5038,*01sjg*,Josh Donaldson,3B,miche,36,226.18,2.0
+12049,*02bwg*,Kyle Hendricks,SP,Pinstrip,32,227.23,16.0
+14916,*02bxv*,Jon Gray,SP,Hit,30,227.77,30.0
+sa917318,*03zlh*,Oneil Cruz,SS,FA,23,229.18,
+23550,*04ew7*,Aaron Ashby,RP,Canha Ge,23,229.29,30.0
+19680,*0440n*,Sixto Sanchez,SP,sfernand,23,229.36,30.0
+7859,*01sge*,Charlie Blackmon,OF,lasmimis,35,230.24,2.0
+4106,*01cil*,Michael Brantley,OF,sfernand,34,231.03,4.0
+10472,*02h98*,Enrique Hernandez,"2B,OF",METS,30,231.26,30.0
+12703,*025hm*,Trevor Bauer,SP,Hit,30,234.09,7.0
+24580,*04pn3*,Josiah Gray,SP,METS,24,235.59,30.0
+6153,*021n3*,Eduardo Escobar,"2B,3B",Pinstrip,33,235.87,8.0
+19913,*03nru*,Jesus Sanchez,OF,METS,24,236.97,30.0
+9256,*01s8p*,AJ Pollock,OF,Scavenge,34,238.31,27.0
+20191,*04eqa*,Garrett Whitlock,RP,lasmimis,25,238.96,30.0
+21992,*04k0w*,Camilo Doval,RP,lasmimis,24,240.5,30.0
+15351,*031f9*,Frank Schwindel,1B,lasmimis,29,242.85,30.0
+14854,*031dw*,Mike Yastrzemski,OF,FA,31,245.85,20.0
+12927,*02bq2*,Brandon Nimmo,OF,La Maqui,28,249.32,18.0
+22581,*04t3y*,Alejandro Kirk,C,METS,23,251.43,30.0
+9785,*01sfj*,Kyle Seager,3B,sfernand,34,251.58,30.0
+25385,*04eee*,Drew Rasmussen,"SP,RP",Hit,26,251.87,30.0
+19198,*025jv*,Yuli Gurriel,1B,La Maqui,37,252.1,7.0
+18030,*03qjv*,Harrison Bader,OF,FA,27,252.47,
+19844,*041se*,Abraham Toro,"2B,3B",FA,25,253.2,
+sa3005720,*04fhb*,Julio Rodriguez,OF,miche,21,255.16,30.0
+19734,*04oct*,Josh Rojas,"2B,SS,OF",FA,27,255.78,
+13361,*02h8d*,Steven Matz,SP,FA,30,255.82,17.0
+19339,*041sg*,Nicky Lopez,SS,99 prob,26,256.24,30.0
+17606,*045kb*,Cristian Javier,"SP,RP",La Maqui,24,257.2,30.0
+11265,*025g7*,Jonathan Schoop,"1B,2B",Scavenge,30,258.25,30.0
+11442,*01t9q*,Gary Sanchez,C,FA,29,259.08,10.0
+13265,*02i12*,Mike Zunino,C,SLG,30,259.44,30.0
+20521,*03qu7*,Nick Madrigal,2B,METS,24,259.53,30.0
+19966,*03z62*,Bobby Dalbec,1B,SLG,26,259.82,30.0
+19388,*041v6*,Tony Gonsolin,SP,Hit,27,260.17,30.0
+19979,*041wu*,Zach Plesac,SP,Pinstrip,26,260.69,30.0
+11674,*01srb*,Jameson Taillon,SP,miche,30,260.76,26.0
+13621,*027fx*,Jeimer Candelario,3B,Scavenge,28,260.89,30.0
+19959,*041r1*,Jesus Luzardo,SP,METS,24,261.49,30.0
+15467,*03111*,Marco Gonzales,SP,FA,29,263.28,
+6632,*01as6*,Carlos Carrasco,SP,sfernand,34,265.68,6.0
+14350,*032pz*,Raimel Tapia,OF,FA,27,269.66,29.0
+21618,*04mn5*,Alec Bohm,3B,lasmimis,25,270.44,30.0
+sa3014504,*04yk2*,Spencer Torkelson,3B,Pinstrip,22,270.96,30.0
+14811,*03199*,Luke Voit,1B,La Maqui,30,271.03,17.0
+16939,*03dei*,Lane Thomas,OF,METS,26,271.51,30.0
+17859,*03aqz*,Adbert Alzolay,"SP,RP",Canha Ge,26,271.88,30.0
+14551,*02w16*,Anthony Santander,OF,Pinstrip,27,271.95,30.0
+9847,*01c1g*,Andrew McCutchen,OF,SLG,35,272.58,19.0
+2967,*025fx*,Tommy Pham,OF,miche,33,273.6,5.0
+19252,*041rv*,Cavan Biggio,3B,La Maqui,26,273.63,9.0
+19316,*031ey*,Eric Lauer,SP,sfernand,26,273.97,30.0
+14993,*02buh*,Scott Barlow,RP,sfernand,29,276.15,28.0
+16512,*031b3*,Isiah Kiner-Falefa,SS,Hit,26,276.91,30.0
+10123,*01fha*,Kyle Gibson,SP,FA,34,277.8,
+10131,*01cdo*,Stephen Strasburg,SP,FA,33,278.29,2.0
+22815,*04k22*,Luis Patino,SP,sfernand,22,278.51,30.0
+12144,*01vja*,Max Kepler,OF,Pinstrip,28,279.89,5.0
+12572,*02bve*,Blake Treinen,RP,SLG,33,279.91,15.0
+14111,*02bv2*,Eric Haase,"C,OF",FA,29,282.14,
+15491,*0310z*,J.P. Crawford,SS,FA,27,283.4,
+12164,*01s9d*,Miguel Sano,1B,sfernand,28,284.82,7.0
+19352,*03aoy*,Sean Murphy,C,FA,27,285.52,
+15362,*0317o*,Jeff McNeil,"2B,OF",FA,29,286.12,16.0
+13896,*02n5v*,Chris Flexen,SP,METS,27,286.8,30.0
+15454,*0316j*,Nick Pivetta,SP,lasmimis,28,287.84,30.0
+10324,*01usi*,Marcell Ozuna,OF,FA,31,289.67,4.0
+19508,*03z61*,Kyle Lewis,OF,lasmimis,26,290.42,30.0
+16933,*03yx9*,Elieser Hernandez,SP,FA,26,290.85,
+15015,*02yek*,Alex Reyes,RP,miche,27,290.89,30.0
+9774,*029us*,Christian Vazquez,C,FA,31,291.95,26.0
+18331,*03adt*,James Kaprielian,SP,La Maqui,27,293.01,30.0
+6562,*01seh*,Alex Cobb,SP,SLG,34,293.19,30.0
+10047,*01s9f*,Wil Myers,OF,La Maqui,31,293.96,30.0
+11836,*025dq*,Taijuan Walker,SP,METS,29,294.99,28.0
+15161,*031cd*,Mitch Garver,C,SLG,30,295.55,8.0
+19569,*04aqc*,David Bednar,RP,lasmimis,27,296.06,30.0
+22296,*0429m*,Joe Barlow,RP,Hit,26,298.63,30.0
+19677,*04aok*,Gregory Soto,RP,Scavenge,26,299.23,30.0
+21318,*04ywk*,Tylor Megill,SP,FA,26,299.62,
+20536,*03yxd*,Vidal Brujan,2B,miche,23,300.16,30.0
+sa3011468,*04y44*,Josh Jung,3B,Hit,23,301.03,30.0
+17874,*03bin*,Nestor Cortes Jr.,"SP,RP",99 prob,27,302.08,30.0
+13602,*02mws*,Patrick Wisdom,3B,Pinstrip,30,303.56,30.0
+15010,*0310k*,Corey Knebel,RP,SLG,30,304.61,22.0
+19262,*041qk*,Garrett Hampson,"2B,OF",FA,27,304.65,
+7739,*01s99*,Travis d'Arnaud,C,FA,32,306.25,
+13449,*02n3l*,Taylor Rogers,RP,miche,31,306.26,13.0
+20099,*03qne*,Chris Paddack,SP,Scavenge,26,308.64,17.0
+21224,*0425t*,Bailey Ober,SP,Canha Ge,26,308.71,30.0
+17992,*03qlw*,David Fletcher,"2B,SS",sfernand,27,311.67,23.0
+19950,*03pzn*,Andres Gimenez,"2B,SS",FA,23,312.43,29.0
+15223,*0316t*,Adam Frazier,2B,99 prob,30,314.46,30.0
+1943,*0005k*,Zack Greinke,SP,Canha Ge,38,315.06,5.0
+13394,*02hhd*,Dylan Floro,RP,Canha Ge,31,315.43,30.0
+13338,*043f8*,Omar Narvaez,C,99 prob,29,316.26,30.0
+21524,*04mn4*,Joey Bart,C,lasmimis,25,316.26,30.0
+13892,*02n2x*,Paul Sewald,RP,La Maqui,31,316.85,30.0
+10556,*025gz*,Cesar Hernandez,2B,sfernand,31,317.44,15.0
+10323,*022vt*,Rafael Ortega,OF,FA,30,317.71,
+20202,*041q8*,Brandon Marsh,OF,lasmimis,24,319.57,30.0
+16572,*03d6y*,Connor Joe,OF,SLG,29,320.4,30.0
+11342,*02jhn*,Jesus Aguilar,1B,99 prob,31,320.95,30.0
+15816,*0311c*,Devin Williams,RP,99 prob,27,321.87,30.0
+10071,*025gy*,Jonathan Villar,"3B,SS",METS,30,322.89,12.0
+18126,*03qo2*,LaMonte Wade Jr.,"1B,OF",SLG,28,324.04,30.0
+sa3010694,*04nb2*,Riley Greene,OF,Pinstrip,21,327.17,30.0
+10681,*026rz*,Gio Urshela,"3B,SS",Hit,30,328.93,11.0
+13620,*02mxf*,Carson Kelly,C,La Maqui,27,329.04,23.0
+2429,*01z34*,Corey Kluber,SP,FA,35,330.58,5.0
+8779,*01sev*,Wade Miley,SP,lasmimis,35,331.06,30.0
+19409,*041m9*,Dane Dunning,SP,miche,27,331.47,30.0
+17186,*03ry2*,Dinelson Lamet,"SP,RP",Pinstrip,29,333.16,9.0
+7802,*01t5w*,Miguel Rojas,SS,FA,32,334.52,
+19294,*041q1*,Nick Solak,2B,FA,27,335.63,
+10243,*01s9c*,Randal Grichuk,OF,Pinstrip,30,337.06,30.0
+21479,*04pkr*,Nico Hoerner,2B,La Maqui,24,338.49,30.0
+22713,*04n0k*,Carlos Hernandez,"SP,RP",FA,24,338.7,
+12863,*0260w*,Matt Barnes,RP,La Maqui,31,339.34,19.0
+19293,*03zc9*,Nick Senzel,OF,FA,26,340.57,17.0
+7550,*01avv*,Jake McGee,RP,99 prob,35,341.89,30.0
+11680,*03fhx*,Elias Diaz,C,FA,31,342.07,
+9323,*01xfr*,Patrick Corbin,SP,FA,32,342.96,11.0
+12828,*04ggi*,Andrew Kittredge,RP,99 prob,31,345.39,30.0
+3516,*01cfp*,Eric Hosmer,1B,Hit,32,345.53,25.0
+12910,*02bvf*,Ken Giles,RP,FA,31,345.58,8.0
+12718,*02brc*,Adrian Houser,SP,Hit,28,346.74,16.0
+13470,*02mw7*,Lucas Sims,RP,99 prob,27,347.52,30.0
+19892,*04alq*,Pavin Smith,"1B,OF",lasmimis,25,348.84,30.0
+13774,*02mwq*,Zach Eflin,SP,Hit,27,349.61,30.0
+4892,*01c2r*,Mike Moustakas,3B,Hit,33,350.63,4.0
+13218,*02bqj*,Michael Fulmer,RP,CALIXTO,28,352.0,30.0
+15653,*02z96*,Dominic Smith,OF,FA,26,352.47,
+10059,*01sc7*,Max Stassi,C,Canha Ge,30,352.8,30.0
+17838,*0315r*,Willie Calhoun,OF,FA,27,353.54,16.0
+18568,*03mew*,Luis Arraez,"2B,3B,OF",Canha Ge,24,353.78,12.0
+7007,*000d8*,Yadier Molina,C,FA,39,354.49,
+15043,*031d9*,Lou Trivino,RP,CALIXTO,30,354.68,30.0
+15117,*03108*,Hunter Dozier,"3B,OF",miche,30,355.96,14.0
+25377,*03pov*,Brady Singer,SP,Scavenge,25,358.72,30.0
+13853,*02mzu*,Joey Wendle,"3B,SS",FA,31,359.93,
+24617,*04pst*,Jarren Duran,OF,Canha Ge,25,359.94,30.0
+15423,*02mv0*,Andrew Heaney,SP,FA,30,360.19,10.0
+27468,*0596g*,Reid Detmers,SP,Canha Ge,22,361.59,30.0
+2396,*01cfr*,Carlos Santana,1B,FA,35,363.22,2.0
+16535,*031el*,Danny Jansen,C,Scavenge,26,363.48,21.0
+21052,*04s1h*,Luis Gil,SP,lasmimis,23,363.93,30.0
+sa3005315,*04aea*,Hunter Greene,SP,99 prob,22,364.1,30.0
+13359,*02j2u*,Tyler Naquin,OF,sfernand,30,365.96,30.0
+18289,*02c63*,Brian Anderson,3B,FA,28,367.41,17.0
+12859,*02bra*,James McCann,C,FA,31,367.88,
+15679,*032gq*,Rowdy Tellez,1B,FA,26,368.49,26.0
+15941,*02mzc*,Austin Nola,C,FA,32,369.22,
+18335,*03pp2*,Josh Staumont,RP,lasmimis,28,371.02,30.0
+19753,*03db4*,Jonathan Loaisiga,RP,sfernand,27,372.52,30.0
+20160,*04eec*,Nate Pearson,RP,Hit,25,373.57,30.0
+19600,*03bud*,Bryan De La Cruz,OF,La Maqui,25,373.94,30.0
+20369,*041m1*,Matt Manning,SP,FA,23,373.99,
+23378,*04dwv*,Jose Barrero,SS,CALIXTO,23,374.12,30.0
+19901,*04eej*,Gavin Sheets,UT,SLG,25,374.22,30.0
+27506,*05ajg*,Ha-seong Kim,"2B,3B,SS",FA,26,374.31,
+14712,*02i3d*,Manuel Margot,OF,FA,27,375.38,30.0
+18042,*03qml*,Dylan Moore,"2B,OF",FA,29,376.14,
+16578,*03m6o*,Yandy Diaz,"1B,3B",99 prob,30,376.65,11.0
+sa917926,*041ah*,Josh Lowe,OF,SLG,23,376.8,30.0
+16918,*02c5l*,Luke Weaver,SP,99 prob,28,376.81,21.0
+sa920423,*04ali*,Edward Cabrera,SP,METS,23,378.83,30.0
+17954,*03qs6*,Sam Hilliard,OF,FA,27,380.86,
+13723,*02j7h*,Jacob Stallings,C,FA,32,380.93,
+20151,*04ejp*,James Karinchak,RP,La Maqui,26,381.41,30.0
+6012,*01ut0*,Didi Gregorius,SS,FA,31,382.08,3.0
+19206,*041md*,Dakota Hudson,"SP,RP",Scavenge,27,383.0,30.0
+18806,*02n1f*,Drew Steckenrider,RP,99 prob,31,383.71,30.0
+11156,*02hj7*,Merrill Kelly,SP,FA,33,384.82,
+17496,*041me*,Diego Castillo,RP,SLG,27,384.98,15.0
+5524,*01cdg*,Madison Bumgarner,SP,FA,32,385.3,11.0
+10021,*01sej*,Mike Minor,SP,FA,34,386.72,14.0
+27459,*04b84*,Yoshi Tsutsugo,"1B,OF",FA,30,387.04,
+14646,*02hq8*,Rowan Wick,RP,SLG,29,388.47,19.0
+17610,*03pp7*,Tanner Rainey,RP,FA,29,389.13,
+16219,*02bu2*,J.D. Davis,3B,FA,28,390.48,10.0
+19244,*041ru*,Cole Irvin,SP,FA,27,390.69,
+5827,*01cgt*,Wilmer Flores,"1B,2B,3B",CALIXTO,30,390.79,30.0
+9077,*01c5f*,Lorenzo Cain,OF,FA,35,392.57,18.0
+21455,*04pmb*,Kris Bubic,"SP,RP",lasmimis,24,393.13,28.0
+6986,*000y3*,Ian Kennedy,RP,sfernand,37,396.29,18.0
+22810,*04b3a*,Roansy Contreras,SP,FA,22,397.08,
+15552,*0374o*,Chad Green,RP,miche,30,398.5,21.0
+17149,*03c97*,Domingo German,SP,99 prob,29,399.36,28.0
+19742,*0423e*,Anthony Bender,RP,lasmimis,26,399.73,30.0
+13419,*02mw3*,Christian Walker,1B,Scavenge,30,400.42,18.0
+9368,*004e1*,Evan Longoria,3B,SLG,36,401.98,30.0
+11489,*02h9j*,Michael A. Taylor,OF,FA,30,402.6,
+15905,*02nqg*,Luis Torrens,C,FA,25,403.15,
+18795,*04de0*,Ramon Urias,"2B,SS",SLG,27,405.91,30.0
+14894,*031b8*,Tony Kemp,"2B,OF",FA,30,406.0,
+10200,*022vw*,Tucker Barnhart,C,FA,31,406.29,
+12180,*025iy*,Jorge Alfaro,"C,OF",FA,28,406.44,
+18015,*03qkh*,Paul DeJong,SS,FA,28,410.18,16.0
+17278,*03daq*,Bobby Bradley,1B,FA,25,410.26,
+13675,*02mx2*,Tyrone Taylor,OF,FA,27,411.58,
+14813,*0312h*,Kyle Farmer,SS,FA,31,411.62,
+sa3014430,*05a2d*,Max Meyer,"SP,RP",CALIXTO,22,411.78,30.0
+9627,*024o9*,Yan Gomes,C,FA,34,412.07,
+5297,*01cgr*,Aaron Hicks,OF,FA,32,412.35,
+16403,*03a95*,Francisco Mejia,C,FA,26,413.15,
+20391,*0414g*,Luis Garcia,2B,FA,21,413.53,
+21501,*04nky*,Trevor Larnach,OF,lasmimis,24,413.63,30.0
+9803,*02h9r*,Miles Mikolas,SP,FA,33,414.08,22.0
+15488,*02zoa*,Antonio Senzatela,SP,FA,26,414.11,
+18383,*03pjf*,Mike Soroka,SP,METS,24,414.88,17.0
+18363,*03c65*,Victor Robles,OF,FA,24,415.1,17.0
+12917,*0269b*,Dylan Bundy,SP,FA,29,415.63,20.0
+19599,*04esz*,Chas McCormick,OF,FA,26,418.46,
+15009,*031bl*,Kyle Finnegan,RP,Canha Ge,30,420.06,30.0
+4806,*0008c*,Rich Hill,SP,Hit,41,421.13,30.0
+6397,*01h4f*,Jake Odorizzi,SP,Pinstrip,31,422.27,13.0
+17273,*03b6k*,Jorge Mateo,OF,FA,26,423.57,
+sa3007017,*04ai4*,Nolan Gorman,3B,CALIXTO,21,424.51,30.0
+12880,*026mq*,Tyler Anderson,SP,Hit,32,426.03,30.0
+11200,*0240y*,Kole Calhoun,OF,FA,34,427.17,
+16561,*03dbe*,Austin Gomber,SP,FA,28,430.0,
+24618,*04pmu*,Ryan Jeffers,C,FA,24,430.0,
+19958,*041m8*,Carter Kieboom,3B,FA,24,430.85,
+19911,*03nqc*,Jose Suarez,"SP,RP",FA,24,432.35,
+17578,*03qm8*,JT Brubaker,SP,Hit,28,432.95,30.0
+20003,*04e82*,Keston Hiura,1B,FA,25,433.38,17.0
+18900,*03pzo*,Leody Taveras,OF,FA,23,435.25,
+21537,*04pma*,Daniel Lynch,SP,FA,25,436.28,
+16256,*03ca3*,Kyle Freeland,SP,FA,28,436.79,
+16221,*03c8v*,Bradley Zimmer,OF,FA,29,437.8,
+15279,*03128*,Garrett Cooper,OF,FA,31,437.81,
+2136,*03d1m*,David Peralta,OF,FA,34,438.64,16.0
+15983,*02yoh*,Clint Frazier,OF,FA,27,438.88,
+20308,*04emt*,Jake Meyers,OF,FA,25,439.75,
+17022,*02zpf*,Edmundo Sosa,"2B,SS",FA,25,442.87,
+14078,*02iug*,Michael Wacha,SP,METS,30,443.02,30.0
+20167,*041q4*,Kyle Muller,SP,Pinstrip,24,444.2,30.0
+15514,*031c2*,Kendall Graveman,RP,CALIXTO,31,444.37,30.0
+19618,*03vcw*,Jordan Hicks,RP,FA,25,444.93,
+15256,*031hc*,Cole Sulser,RP,Hit,31,446.45,30.0
+3269,*00068*,Robinson Cano,2B,FA,39,447.11,
+11804,*03h90*,Hector Neris,RP,Scavenge,32,448.73,8.0
+1744,*0007c*,Miguel Cabrera,1B,FA,38,451.0,19.0
+21614,*04ppo*,Kyle Isbel,OF,FA,24,451.56,
+20000,*0473n*,Tyler A. Wells,RP,FA,27,452.97,
+15541,*0374m*,Tyler Rogers,RP,99 prob,31,453.53,30.0
+10815,*01spl*,Jurickson Profar,"1B,OF",FA,28,453.7,
+16502,*0314j*,Ryan Yarbrough,"SP,RP",Hit,30,454.0,16.0
+12371,*02bvq*,Tommy La Stella,2B,FA,32,456.46,19.0
+sa3006658,*0414k*,Seth Beer,UT,SLG,25,457.22,30.0
+19871,*04225*,Tucker Davidson,SP,METS,25,457.94,30.0
+23252,*04eeu*,Spencer Howard,SP,FA,25,461.29,
+6661,*01sk9*,Alex Colome,RP,CALIXTO,33,461.54,14.0
+18171,*03qvr*,Seth Brown,OF,FA,29,463.07,
+9929,*02hh7*,Darin Ruf,"1B,OF",SLG,35,463.81,30.0
+12282,*026ly*,Rougned Odor,"2B,3B",FA,27,466.13,
+19716,*041r5*,Dustin May,SP,FA,24,466.35,
+18365,*031ui*,Lewin Diaz,1B,FA,25,466.62,
+sa917947,*041ps*,Nick Lodolo,SP,99 prob,23,468.63,30.0
+19278,*03mmw*,Vladimir Gutierrez,SP,FA,26,469.64,
+sa3010152,*04qk8*,CJ Abrams,SS,miche,21,471.83,30.0
+16400,*03i81*,Reynaldo Lopez,"SP,RP",FA,28,472.59,
+16094,*03de5*,Zach Thompson,"SP,RP",FA,28,473.36,
+14542,*03mnq*,Carlos Estevez,RP,La Maqui,29,473.93,30.0
+16930,*031b2*,Jonah Heim,C,FA,26,475.13,
+17338,*03btu*,Willi Castro,"2B,SS",FA,24,475.15,
+19698,*04c8q*,Edward Olivares,OF,FA,25,478.55,
+3542,*01sil*,Danny Duffy,SP,METS,33,480.16,30.0
+5222,*0001p*,Justin Upton,OF,FA,34,480.67,20.0
+9111,*0241r*,Brad Hand,RP,METS,31,481.0,6.0
+16153,*03dg7*,Austin Slater,OF,FA,29,482.0,
+18819,*03mm4*,Andy Ibanez,2B,FA,28,483.04,
+17452,*039vx*,Jose Siri,OF,99 prob,26,483.22,30.0
+17594,*03d7h*,Mitch Keller,SP,FA,25,483.62,
+21366,*04egl*,Glenn Otto,SP,FA,25,484.18,
+25379,*0421l*,Sam Long,SP,FA,26,484.63,
+13761,*02mw1*,Chris Stratton,RP,Pinstrip,31,484.71,30.0
+5913,*021oi*,Leury Garcia,"2B,OF",CALIXTO,30,486.42,30.0
+27463,*05ajh*,Garrett Crochet,RP,FA,22,486.69,
+9073,*030vs*,Kirby Yates,RP,FA,34,488.42,3.0
+7593,*01gjf*,Jordan Lyles,SP,Hit,31,488.83,30.0
+21454,*04pt2*,Lars Nootbaar,OF,FA,24,489.9,
+14523,*03ap0*,Pedro Severino,C,FA,28,490.41,
+21534,*04my4*,Cal Raleigh,C,FA,25,490.95,
+19260,*041qd*,Jake Fraley,OF,FA,26,491.16,
+20203,*04eiw*,Eli Morgan,SP,FA,25,491.66,
+16909,*026l2*,Colin Moran,1B,La Maqui,29,493.0,30.0
+7531,*02hy2*,Collin McHugh,"SP,RP",99 prob,34,493.88,30.0
+12147,*02br3*,Nick Ahmed,SS,FA,31,495.31,
+23293,*04prq*,Codi Heuer,RP,Pinstrip,25,497.31,30.0
+16337,*03c7z*,Nick Gordon,OF,FA,26,497.82,
+19459,*04ata*,Jorge Alcala,RP,FA,26,498.29,
+15734,*0312l*,Brad Keller,SP,FA,26,500.37,
+sa3005068,*04cd5*,MacKenzie Gore,SP,Canha Ge,22,501.33,30.0
+13499,*02t8m*,Tom Murphy,C,FA,30,502.37,23.0
+13273,*02bwr*,Ross Stripling,SP,FA,32,504.4,
+8709,*01bv1*,Elvis Andrus,SS,FA,33,508.27,21.0
+9434,*01z83*,Dallas Keuchel,SP,FA,34,509.06,
+20367,*03zbj*,Brusdar Graterol,RP,FA,23,509.42,
+13435,*02hdy*,Pierce Johnson,RP,La Maqui,30,509.9,30.0
+10058,*01iz0*,Tyler Matzek,RP,FA,31,511.5,
+12972,*02bq6*,Joe Ross,SP,FA,28,514.44,
+19343,*03yso*,A.J. Puk,RP,La Maqui,26,521.51,30.0
+18839,*03pjd*,Josh Naylor,OF,FA,24,521.74,
+20373,*0403o*,Andres Munoz,RP,FA,22,522.03,
+18325,*02nc0*,Taylor Hearn,"SP,RP",METS,27,522.33,30.0
+12037,*02c4r*,Jon Berti,"2B,3B",FA,31,523.54,24.0
+21549,*04mlg*,Jackson Kowar,SP,CALIXTO,25,525.4,30.0
+20036,*04071*,Isaac Paredes,2B,FA,22,525.63,
+18498,*02z93*,Kenta Maeda,SP,FA,33,526.55,9.0
+23796,*04mnw*,Ryan Weathers,"SP,RP",FA,22,527.18,
+17425,*03d6n*,Erick Fedde,SP,Pinstrip,28,527.54,30.0
+19334,*03ywd*,Yadiel Hernandez,OF,FA,34,531.59,
+14843,*02hir*,Michael Lorenzen,RP,Canha Ge,30,532.56,21.0
+19997,*041vp*,Santiago Espinal,3B,FA,27,533.0,
+5452,*025jm*,Ji-Man Choi,1B,FA,30,534.07,
+11828,*025l2*,James Paxton,SP,FA,33,534.72,13.0
+22209,*041tq*,Sam Huff,C,FA,23,535.9,
+17312,*03deg*,Justin Steele,"SP,RP",FA,26,536.21,
+19867,*04eek*,Griffin Canning,SP,FA,25,536.47,
+16375,*02k19*,Oscar Mercado,OF,FA,27,536.71,11.0
+15730,*031b4*,Tyler Wade,"3B,SS,OF",FA,27,538.38,
+22217,*04eep*,Luis Campusano,C,FA,23,539.15,26.0
+12775,*02brl*,Brad Miller,"1B,OF",SLG,32,540.65,30.0
+18316,*03qlr*,Edwin Rios,1B,FA,27,540.87,
+sa917941,*041q6*,Nolan Jones,3B,FA,23,541.53,
+11038,*0381o*,Kevin Kiermaier,OF,FA,31,543.23,
+14374,*02btx*,Tyler Glasnow,SP,Pinstrip,28,543.92,10.0
+6398,*01s9a*,Trevor May,RP,99 prob,32,544.62,18.0
+16434,*0310e*,Christian Arroyo,2B,FA,26,546.03,
+sa3004259,*04aeb*,Royce Lewis,SS,Scavenge,22,546.36,30.0
+14387,*02i3m*,Harold Ramirez,OF,FA,27,546.87,
+6887,*021t6*,Martin Maldonado,C,FA,35,549.41,
+6310,*013ub*,Alcides Escobar,SS,FA,35,553.48,
+14329,*02my8*,Anthony Alford,OF,FA,27,554.17,
+20078,*04bpk*,Evan White,1B,FA,25,558.13,
+12325,*02bqo*,Jace Peterson,"1B,2B,OF",SLG,31,563.44,30.0
+19948,*03xlc*,Cristian Pache,OF,FA,23,563.59,
+16929,*02yog*,Touki Toussaint,SP,FA,25,563.88,
+13834,*02nbq*,Alec Mills,"SP,RP",FA,30,564.33,
+12984,*025ho*,Jackie Bradley Jr.,OF,FA,31,566.68,
+17326,*03d6r*,Cole Tucker,SS,FA,25,568.43,
+19960,*041pq*,Taylor Trammell,OF,Scavenge,24,568.53,30.0
+16703,*03deo*,Julian Merryweather,RP,99 prob,30,568.88,30.0
+14593,*02n8i*,David Bote,"2B,3B",FA,28,568.93,
+15082,*031fh*,Adam Engel,OF,FA,30,569.24,
+17321,*03d6t*,Michael Chavis,2B,FA,26,569.91,
+19432,*04yin*,Yonny Hernandez,3B,FA,23,570.9,
+17964,*03qm3*,Tyler Gilbert,SP,Scavenge,28,572.06,30.0
+19268,*041m4*,Justin Dunn,SP,FA,26,574.53,
+15451,*0316b*,Mike Mayers,RP,FA,30,575.35,
+15878,*02i3l*,Miguel Andujar,OF,FA,26,575.62,
+14968,*0311f*,Victor Caratini,C,FA,28,579.0,
+15055,*03125*,Dom Nunez,C,FA,26,580.19,
+13942,*03cav*,Brent Suter,RP,FA,32,581.04,
+15191,*03160*,Chad Pinder,OF,FA,29,581.52,
+17780,*03btm*,Jose Alvarado,RP,Scavenge,26,582.43,30.0
+14771,*031cy*,Emilio Pagan,RP,FA,30,585.73,10.0
+24655,*04ppl*,Owen Miller,2B,FA,25,585.8,
+19627,*04e2u*,Brent Rooker,OF,FA,27,586.2,
+20503,*03yrz*,William Contreras,C,FA,24,587.23,
+13649,*02bx4*,Clay Holmes,RP,Pinstrip,28,587.26,30.0
+8246,*02yxb*,Paolo Espino,"SP,RP",FA,35,587.3,
+15487,*02zm9*,Victor Reyes,OF,FA,27,588.26,
+19266,*041x6*,Taylor Widener,"SP,RP",FA,27,589.19,
+15937,*02y8t*,Aledmys Diaz,3B,FA,31,591.04,
+3184,*004e4*,David Price,"SP,RP",FA,36,591.45,11.0
+14875,*03753*,Caleb Smith,"SP,RP",FA,30,592.34,19.0
+16610,*03dpn*,J.P. Feyereisen,RP,FA,28,592.96,
+17710,*03qpz*,Matt Beaty,"1B,OF",FA,28,593.82,
+2900,*021wh*,Roberto Perez,C,FA,33,595.74,
+5517,*01usr*,Kyle Higashioka,C,FA,31,595.92,
+sa3011642,*04y95*,JJ Bleday,OF,Pinstrip,24,596.6,30.0
+2829,*01u5m*,Manny Pina,C,FA,34,597.65,
+10343,*02han*,Aaron Loup,RP,Pinstrip,34,598.45,30.0
+16981,*02bq5*,Tyler Beede,RP,FA,28,598.71,
+11423,*025kd*,Jose Quintana,"SP,RP",FA,32,599.45,29.0
+19665,*04aed*,Kyle Wright,SP,FA,26,600.13,
+7146,*01fd0*,Daniel Hudson,RP,Pinstrip,34,601.75,30.0
+13758,*02mzd*,Tyler Duffey,RP,FA,31,602.24,16.0
+17696,*03pj2*,Kevin Newman,SS,FA,28,603.4,13.0
+13549,*03mnn*,Richard Rodriguez,RP,Scavenge,31,603.91,30.0
+14773,*039si*,Yu Chang,"1B,3B",FA,26,605.35,
+14506,*02n4q*,J.B. Wendelken,RP,FA,28,606.37,
+17285,*03c9c*,Justus Sheffield,SP,FA,25,606.52,
+14375,*02i3x*,Amir Garrett,RP,FA,29,609.43,26.0
+sa917962,*041rk*,Colton Welker,3B,FA,24,609.92,
+sa3004693,*04ee8*,Heliot Ramos,OF,FA,22,610.0,
+16258,*03drc*,Aaron Bummer,RP,sfernand,28,610.14,30.0
+22343,*0429o*,A.J. Alexy,SP,METS,23,611.57,30.0
+12095,*02z0e*,Yimi Garcia,RP,La Maqui,31,614.58,30.0
+20070,*03ql8*,Bailey Falter,RP,FA,24,615.96,
+13807,*02mwl*,Kevin Plawecki,C,FA,30,619.27,
+20418,*04egq*,Josh Fleming,"SP,RP",FA,25,619.46,30.0
+18694,*03nqg*,Kolby Allard,"SP,RP",FA,24,619.54,
+18353,*02zg5*,Daz Cameron,OF,FA,24,619.64,
+19345,*041pp*,Daulton Jefferies,RP,sfernand,26,619.86,30.0
+sa3004615,*04eeg*,Jeter Downs,SS,FA,23,620.35,
+19899,*04ee7*,Clarke Schmidt,"SP,RP",lasmimis,25,621.58,30.0
+16530,*03aqw*,Mauricio Dubon,"2B,SS,OF",FA,27,621.88,
+22458,*04bpj*,Taylor Walls,SS,FA,25,622.73,
+11426,*01ucb*,Drew Pomeranz,RP,Hit,33,623.0,14.0
+17735,*0376h*,Tyler Alexander,"SP,RP",FA,27,623.15,
+4940,*01c5o*,Jason Heyward,OF,FA,32,624.62,
+12988,*02bqd*,Andrew Chafin,RP,sfernand,31,625.78,22.0
+19392,*0473m*,Zach McKinstry,"2B,OF",FA,26,626.13,
+10133,*01sik*,Brad Boxberger,RP,SLG,33,628.91,30.0
+12158,*02bwt*,Austin Barnes,C,FA,32,631.71,
+16725,*03df0*,Jose Trevino,C,FA,29,632.0,
+sa3014454,*05249*,Austin Martin,"SS,OF",lasmimis,22,633.89,30.0
+16466,*03d7m*,Brent Honeywell Jr.,SP,METS,26,634.2,30.0
+7115,*01cg1*,Daniel Bard,RP,FA,36,634.42,
+10291,*02hgr*,Ryan Tepera,RP,sfernand,34,635.48,30.0
+12976,*02brk*,Austin Hedges,C,FA,29,635.68,
+10430,*01sex*,Mychal Givens,RP,La Maqui,31,637.4,30.0
+19181,*03yug*,Zack Collins,C,FA,26,640.24,
+14735,*02mzx*,Brett Phillips,OF,FA,27,640.42,
+19990,*0429h*,Bryse Wilson,SP,FA,24,642.19,
+19225,*041qa*,Mitch White,RP,FA,27,647.18,
+8722,*01cde*,Jason Castro,C,FA,34,648.4,
+12447,*03sef*,Seth Lugo,RP,Pinstrip,32,649.33,13.0
+19864,*04azt*,Riley Adams,C,FA,25,649.43,
+15482,*03atj*,Aristides Aquino,OF,FA,27,651.83,
+19683,*04ylg*,Mike Brosseau,"2B,3B",FA,27,651.95,
+12160,*02hka*,Ben Gamel,OF,FA,29,652.2,
+16623,*03dez*,Greg Allen,OF,FA,28,653.26,
+22275,*04azv*,Jake Burger,3B,FA,25,655.13,
+19926,*03poq*,Tony Santillan,RP,FA,24,656.36,
+17719,*03aab*,Steven Duggar,OF,FA,28,661.57,
+15794,*03mwy*,Yonathan Daza,OF,FA,27,662.08,
+20276,*0406o*,Deivi Garcia,SP,miche,22,663.33,30.0
+14691,*02zma*,Harold Castro,"2B,SS",Scavenge,28,666.1,30.0
+18337,*04sxl*,Nick Anderson,RP,FA,31,668.95,7.0
+13367,*02i2r*,Stephen Piscotty,OF,FA,30,669.92,
+19264,*041ql*,Tom Hatch,SP,FA,27,670.5,
+6984,*0321h*,Luis Garcia,RP,SLG,34,673.66,30.0
+7738,*01sfv*,Wily Peralta,SP,99 prob,32,679.53,30.0
+15947,*02hhj*,Ryne Stanek,RP,Hit,30,679.6,30.0
+15170,*04p9m*,Josh VanMeter,"2B,3B",FA,26,680.88,
+16794,*049dt*,Josh James,RP,FA,28,681.52,13.0
+14950,*03344*,Johan Camargo,"1B,2B,3B",FA,28,682.13,
+11752,*025ey*,Luke Jackson,RP,FA,30,682.95,
+7410,*000y0*,J.A. Happ,SP,Scavenge,39,686.48,30.0
+16401,*03zu0*,Yonny Chirinos,SP,FA,28,686.73,
+25007,*04q05*,Alex Vesia,RP,METS,25,688.09,30.0
+18027,*03mky*,Hoy Park,2B,FA,25,689.47,
+16947,*03d6q*,Derek Hill,OF,FA,26,689.99,
+sa3004378,*04eer*,Drew Waters,OF,FA,23,690.83,
+12510,*02bxm*,Curt Casali,C,FA,33,693.31,
+9460,*01uut*,Dan Straily,SP,FA,33,711.67,
+20242,*04eg3*,Kevin Smith,3B,FA,25,712.13,
+17922,*03da6*,Isan Diaz,"2B,3B",FA,25,715.93,
+16207,*03d75*,Spencer Turnbull,SP,FA,29,716.1,
+14527,*02brf*,Jorge Lopez,"SP,RP",FA,28,717.67,
+17490,*040cf*,Genesis Cabrera,RP,Hit,25,723.83,30.0
+10061,*01vxp*,Brooks Raley,RP,FA,33,725.7,
+12804,*02bvh*,Matt Wisler,RP,FA,29,727.58,
+19800,*0423i*,Wil Crowe,SP,FA,27,729.83,
+14524,*030x2*,Jose Leclerc,RP,FA,28,732.56,14.0
+11801,*02vmh*,Hansel Robles,RP,Hit,31,736.27,12.0
+20491,*03dsj*,J.B. Bukauskas,RP,FA,25,739.0,
+17423,*0414s*,Yermin Mercedes,UT,FA,28,740.56,
+21844,*041e3*,Braxton Garrett,SP,FA,24,742.0,
+19853,*041wv*,Michael King,"SP,RP",FA,26,754.35,
+19514,*041t8*,Andrew Knizner,C,FA,26,757.55,
+18282,*03aaa*,Jarlin Garcia,RP,FA,28,758.2,
+20370,*04egr*,Bruce Zimmermann,SP,FA,26,758.28,
+sa918017,*041sc*,Jordan Balazovic,SP,Scavenge,23,759.35,30.0
+16426,*03aay*,Thairo Estrada,SS,FA,25,761.55,
+13767,*02mx4*,J.T. Chargois,RP,FA,31,761.78,
+17468,*03nud*,Kelvin Gutierrez,3B,FA,27,762.28,
+18083,*03qkr*,Austin Allen,C,FA,27,768.62,
+18555,*03qnb*,Logan Allen,SP,FA,24,772.01,
+19858,*03avk*,Luis Rengifo,SS,FA,24,773.46,
+19968,*04eia*,Jared Oliva,OF,FA,26,775.46,
+17766,*03pj8*,DJ Stewart,OF,FA,28,783.2,
+21622,*03qyv*,Jake McCarthy,OF,FA,24,783.54,
+16424,*03dag*,Jordan Luplow,OF,FA,28,792.78,
+15042,*031dd*,Tim Mayza,RP,SLG,29,793.46,30.0
+17548,*03pje*,Taylor Ward,OF,FA,28,794.6,
+7803,*021iu*,Richard Bleier,RP,FA,34,802.33,
+21205,*04ek8*,Connor Brogdon,RP,FA,26,804.2,
+16233,*02nbw*,Tejay Antone,RP,FA,28,805.1,28.0
+19309,*04coa*,Trevor Richards,RP,FA,28,807.53,
+21987,*042c1*,Rodolfo Castro,2B,FA,22,810.85,
+18655,*03ppa*,A.J. Minter,RP,FA,28,810.87,29.0
+14295,*047sh*,Wandy Peralta,RP,FA,30,812.0,
+16977,*0311b*,Trevor Williams,"SP,RP",FA,29,813.01,
+17276,*02yoi*,Alex Jackson,C,FA,26,818.0,
+18323,*03pp9*,Josh Sborz,RP,FA,28,818.77,
+7982,*025dj*,Anthony Bass,RP,FA,34,830.27,28.0
+20186,*04afi*,Brendan McKay,SP,sfernand,26,830.67,30.0
+19318,*04053*,Matt Thaiss,1B,FA,26,832.5,
+16686,*03dpa*,Jason Vosler,3B,FA,28,833.0,
+19884,*04afj*,Corbin Martin,SP,FA,26,834.77,
+15402,*03vlg*,Jack Mayfield,3B,FA,31,834.8,
+21087,*03qzx*,Demarcus Evans,RP,FA,25,835.5,
+4020,*000sw*,Yusmeiro Petit,RP,Scavenge,37,835.9,21.0
+18674,*03pol*,Jake Woodford,"SP,RP",miche,25,839.43,30.0
+13594,*02bq7*,Robert Stephenson,RP,FA,28,843.77,
+18790,*02c5u*,Dillon Peters,SP,FA,29,844.39,
+19952,*041r6*,Khalil Lee,OF,FA,23,849.73,
+13345,*03am2*,Luis Cessa,RP,FA,29,850.5,
+19349,*043r7*,Caleb Ferguson,RP,FA,25,850.5,
+18064,*03qwa*,Phil Maton,RP,FA,28,851.9,
+19249,*04auk*,Seranthony Dominguez,RP,FA,27,852.6,
+sa3014423,*059qm*,Asa Lacy,"SP,RP",Pinstrip,22,854.1,30.0
+20253,*0317q*,Griffin Jax,SP,FA,27,854.98,
+5615,*021jb*,Ryan Brasier,RP,FA,34,858.1,
+sa3004755,*04efc*,Tyler Freeman,SS,FA,22,861.4,
+19521,*04anu*,Andrew Young,2B,METS,27,864.9,30.0
+17359,*043pf*,Josh Taylor,RP,METS,28,866.0,30.0
+7274,*01di3*,Craig Stammen,RP,FA,37,868.98,
+11209,*03anj*,Casey Sadler,RP,FA,31,869.5,
+18356,*03ysq*,Jaime Barria,SP,FA,25,874.0,
+17750,*03qqq*,Max Schrock,OF,FA,27,879.77,
+17369,*03dbs*,Brett Martin,RP,FA,26,880.0,
+16417,*02yh9*,Sergio Alcantara,"2B,SS",FA,25,883.3,
+16943,*032lk*,Sean Newcomb,RP,FA,28,883.8,
+16442,*03dgq*,Ryan O'Hearn,"1B,OF",FA,28,886.9,
+19452,*03av1*,Jake Rogers,C,FA,26,889.0,
+12361,*03jvx*,Spencer Patton,RP,FA,33,889.1,
+16285,*03mp0*,Michael Hermosillo,OF,FA,26,891.5,
+23798,*0506h*,Randy Dobnak,"SP,RP",FA,26,894.1,
+13763,*02n7j*,Dominic Leone,RP,CALIXTO,30,896.3,30.0
+19444,*04ddz*,Yohan Ramirez,RP,FA,26,897.96,
+17586,*03dfa*,Tanner Scott,RP,FA,27,898.0,29.0
+20321,*04eel*,Stuart Fairchild,OF,FA,25,899.0,
+17932,*03pox*,Andrew Stevenson,OF,FA,27,899.67,
+12800,*02bsm*,Noe Ramirez,RP,FA,32,900.0,
+18519,*03109*,Phil Bickford,RP,miche,26,907.43,30.0
+16448,*031bm*,Jacob Nottingham,UT,FA,26,908.17,
+15674,*0310a*,Reese McGuire,C,FA,26,909.35,
+18872,*03pp6*,Jahmai Jones,2B,FA,24,910.0,
+19362,*041py*,Keegan Akin,SP,FA,26,912.33,
+sa917925,*03ysp*,Jay Groome,SP,FA,23,916.8,
+10078,*02hfr*,Caleb Thielbar,RP,FA,34,924.3,
+21635,*04ei5*,Nick Maton,"2B,SS",FA,24,927.1,
+16451,*0317b*,Luis Guillorme,3B,FA,27,935.0,
+13755,*02n1i*,Tomas Nido,C,FA,27,935.1,
+17796,*03p9d*,Dillon Tate,RP,FA,27,935.5,
+15288,*03178*,Adam Cimber,RP,FA,31,935.7,
+sa739716,*03bam*,Domingo Acevedo,RP,FA,27,936.5,
+12981,*02brd*,Cam Gallagher,C,FA,29,936.5,
+11487,*03ani*,Joely Rodriguez,RP,FA,30,938.0,
+13185,*02i1q*,Orlando Arcia,OF,FA,27,941.5,
+22487,*04674*,Johan Oviedo,SP,FA,23,942.2,
+19928,*03qkw*,Ryan McKenna,OF,FA,24,942.33,
+15823,*031d4*,Zack Littell,RP,FA,26,949.0,
+6399,*02jmi*,Jose Cisnero,RP,FA,32,954.67,
+19795,*04efn*,Keegan Thompson,"SP,RP",FA,26,955.0,
+17216,*03cah*,Monte Harrison,OF,FA,26,956.0,
+3192,*02t1d*,Will Harris,RP,FA,37,958.67,18.0
+16587,*03dgs*,Erik Swanson,RP,FA,28,960.0,
+19956,*041e2*,Mickey Moniak,OF,Hit,23,961.0,30.0
+17585,*03djm*,Jordan Yamamoto,"SP,RP",FA,25,971.0,
+sa3005305,*04ef6*,Cory Abbott,RP,FA,26,974.0,
+16647,*03duu*,Ryan Thompson,RP,FA,29,975.33,
+15761,*03as0*,Joe Jimenez,RP,FA,26,977.5,12.0
+5097,*01sha*,Anthony Gose,RP,FA,31,980.0,
+17677,*04mlr*,Jeffrey Springs,RP,FA,29,980.67,
+15047,*0316l*,Austin Voth,RP,FA,29,982.0,
+20617,*04o64*,Jean Carlos Mejia,SP,FA,25,983.0,
+sa912848,*03vuk*,Yusniel Diaz,OF,FA,25,983.67,
+13654,*02na8*,Jharel Cotton,RP,FA,29,986.0,
+10441,*01srk*,Jon Singleton,1B,FA,30,987.0,
+27461,*058lu*,Shogo Akiyama,OF,FA,33,989.67,
+18548,*03dbu*,Sam Hentges,"SP,RP",FA,25,996.0,
+8337,*021sx*,Lucas Luetge,RP,FA,34,998.0,
+11384,*02ccf*,Tommy Kahnle,RP,FA,32,1003.5,11.0
+16814,*04022*,Tim Hill,RP,METS,31,1013.0,30.0
+19878,*04cdd*,Adam Haseley,OF,FA,25,1018.67,
+19320,*041rn*,Joey Lucchesi,SP,FA,28,1027.5,
+17783,*031d3*,Jake Brentz,RP,FA,27,1067.0,
+21896,*04390*,Brailyn Marquez,SP,FA,22,1120.0,
+19453,*041qm*,Shaun Anderson,RP,FA,27,1142.0,23.0
+18889,*03qxt*,Danny Mendick,"2B,SS",FA,28,1150.0,
+19931,*03qk3*,Luke Williams,OF,FA,25,1186.0,
+12760,*02jhl*,Rafael Montero,RP,FA,31,,16.0
+3240,*01saq*,Zack Britton,RP,FA,34,,17.0
+15507,*0310c*,Hunter Harvey,RP,FA,27,,18.0
+12777,*03xmd*,John Brebbia,RP,FA,31,,18.0
+13911,*02n6c*,Scott Oberg,RP,FA,31,,20.0
+18138,*03ql5*,Ryan Helsley,RP,FA,27,,20.0
+5420,*01sdu*,Pedro Baez,RP,FA,33,,21.0
+19403,*02mz1*,Colin Poche,RP,FA,27,,21.0
+15684,*0351m*,Miguel Castro,RP,Scavenge,27,,30.0
+27515,*05rbx*,Hirokazu Sawamura,RP,sfernand,33,,30.0
+sa3006884,*04g7l*,Kristian Robinson,OF,sfernand,21,,30.0
+sa917930,*041m3*,Forrest Whitley,SP,METS,24,,30.0
+10028,*01sci*,Christian Bethancourt,C,FA,30,,
+10039,*01ska*,Keyvius Sampson,RP,FA,31,,
+10067,*025gm*,Tomas Telis,C,FA,30,,
+10232,*01olv*,Ryota Igarashi,RP,FA,42,,
+10297,*02hdd*,Chad Bell,RP,FA,32,,
+1051,*000py*,Jake Peavy,SP,FA,40,,
+10619,*02hnu*,David Freitas,C,FA,32,,
+10655,*025e9*,Rob Brantly,C,FA,32,,
+10843,*02hky*,Adam Kolarek,RP,FA,32,,
+11247,*025l1*,Jabari Blash,OF,FA,32,,
+11270,*02484*,Aaron Altherr,OF,FA,30,,
+11720,*024p6*,Justin Grimm,RP,FA,33,,
+11753,*02hlf*,Kyle Ryan,RP,FA,30,,
+11773,*027vl*,Jason Rogers,1B,FA,33,,
+11846,*026l3*,Leonys Martin,OF,FA,33,,
+11850,*02hma*,Tyler Austin,"1B,OF",FA,30,,
+11863,*02hjn*,Yadiel Rivera,3B,FA,29,,
+12294,*02bq1*,Cory Spangenberg,3B,FA,30,,
+12673,*02zl7*,Roenis Elias,RP,FA,33,,
+12938,*02yqz*,Gabriel Ynoa,RP,FA,28,,
+13047,*02i1l*,Munenori Kawasaki,2B,FA,40,,
+13211,*0410x*,Warwick Saupold,RP,FA,31,,
+13369,*03bnk*,Erik Gonzalez,3B,FA,30,,
+13414,*02hhl*,Andrew Toles,OF,FA,29,,
+13580,*02myt*,Steven Okert,RP,FA,30,,
+13677,*02n0s*,Corey Oswalt,RP,FA,28,,
+13854,*02nbr*,Anthony Bemboom,C,FA,31,,
+14137,*02n09*,Tim Lopes,2B,FA,27,,
+14196,*02n0e*,Andrew Velazquez,SS,FA,27,,
+14446,*026ke*,Hiroyuki Nakajima,SS,FA,39,,
+14552,*02i45*,Jose Ruiz,RP,FA,27,,
+14665,*031nm*,Jandel Gustave,RP,FA,29,,
+14681,*04km8*,Andres Machado,RP,FA,28,,
+14706,*02n2v*,Anthony Banda,RP,FA,28,,
+14739,*02mwd*,Paul Blackburn,SP,FA,28,,
+14897,*02hqd*,Daniel Palka,OF,FA,30,,
+15046,*0316r*,Trevor Gott,RP,FA,29,,
+15100,*031gh*,Ben Heller,RP,FA,30,,
+15605,*040bu*,Phillips Valdez,RP,FA,30,,
+15670,*032uh*,Alex Guerrero,OF,FA,35,,
+15832,*031ez*,Paul Fry,RP,FA,29,,
+15906,*02yop*,Lewis Thorpe,SP,FA,26,,
+15958,*0310h*,Travis Demeritte,OF,FA,27,,
+16058,*031gu*,Stefan Crichton,RP,FA,29,,
+16132,*03dg9*,Justin Shafer,RP,FA,29,,
+16192,*026m5*,Derek Fisher,OF,FA,28,,
+16208,*03d6m*,Brandon Finnegan,SP,FA,28,,
+16350,*02n6w*,Ryan Borucki,RP,FA,27,,
+16357,*03azu*,Pablo Reyes,3B,FA,28,,
+16390,*03dfo*,Brad Wieck,RP,FA,30,,
+16404,*037ab*,Domingo Leyba,2B,FA,26,,
+16408,*03aqt*,Victor Gonzalez,RP,FA,26,,
+16609,*04tlv*,Bryan Abreu,RP,FA,24,,
+16953,*056c8*,Chadwick Tromp,C,FA,26,,
+17034,*03d7a*,Sean Reid-Foley,RP,FA,26,,
+17098,*0375q*,Dustin Fowler,OF,FA,27,,
+17181,*03mk3*,Yoan Lopez,RP,FA,29,,
+17192,*03djb*,Jalen Beeks,RP,FA,28,,
+1726,*0001t*,Jose Valverde,RP,FA,43,,
+17432,*03ann*,Jeff Hoffman,"SP,RP",FA,29,,
+17464,*03mgq*,Jonathan Hernandez,RP,FA,25,,
+17485,*03xy4*,Albert Abreu,RP,FA,26,,
+17611,*03qjz*,Taylor Clarke,RP,FA,28,,
+17684,*03qok*,Vimael Machin,SS,FA,28,,
+17734,*03qto*,Evan Phillips,RP,FA,27,,
+17793,*03qtp*,Trey Wingenter,RP,FA,27,,
+17878,*046yd*,Dennis Santana,RP,FA,25,,
+17948,*031k3*,Trent Thornton,RP,FA,28,,
+17969,*03poo*,Peter Lambert,SP,FA,24,,
+18067,*03qn0*,Garrett Stubbs,C,FA,28,,
+18288,*02myl*,Austin Dean,OF,FA,28,,
+18297,*0313t*,Tyler Kinley,RP,FA,30,,
+18699,*03pp0*,Nick Neidert,SP,FA,25,,
+18718,*03yet*,Hyun Soo Kim,OF,FA,34,,
+18719,*03nzq*,Seunghwan Oh,RP,FA,39,,
+18721,*03mlu*,Guillermo Heredia,OF,FA,30,,
+18722,*03xu9*,Dae-Ho Lee,1B,FA,39,,
+18769,*02b2k*,Cody Poteet,SP,FA,27,,
+18881,*03qr3*,Curtis Terry,UT,FA,25,,
+18887,*03qqd*,Seby Zavala,C,FA,28,,
+19274,*04y76*,Jacob Webb,RP,FA,28,,
+19331,*04lo8*,Jose Rojas,OF,FA,28,,
+19346,*041w3*,Eli White,OF,FA,27,,
+19350,*041yb*,Dean Kremer,SP,FA,26,,
+19354,*041ts*,Luke Raley,OF,FA,27,,
+19369,*03to7*,Jae-gyun Hwang,3B,FA,34,,
+19457,*041sr*,Bryan Garcia,RP,FA,26,,
+19533,*04222*,Taylor Jones,1B,FA,28,,
+19546,*041qq*,Jon Duplantier,SP,FA,27,,
+19552,*03qzb*,Jaylin Davis,OF,FA,27,,
+19562,*0420g*,Zack Short,SS,FA,26,,
+19614,*03zo6*,Cionel Perez,RP,FA,25,,
+19647,*0422q*,Matt Foster,RP,FA,26,,
+198,*01uha*,Danny Worth,"2B,SS",FA,36,,
+19848,*03ywk*,Darwinzon Hernandez,RP,FA,25,,
+19866,*04el1*,Brandon Bielak,RP,FA,25,,
+19873,*04eet*,Drew Ellis,3B,FA,26,,
+19890,*03qvs*,Emmanuel Rivera,3B,FA,25,,
+19977,*041sn*,Tres Barrera,C,FA,27,,
+20039,*043ia*,Adrian Morejon,SP,FA,22,,
+20100,*04akb*,Michel Baez,RP,FA,25,,
+20233,*03vum*,Gilberto Celestino,OF,FA,22,,
+20275,*03nrm*,Jonathan Arauz,SS,FA,23,,
+20352,*04alp*,Ernie Clement,2B,FA,25,,
+20379,*04ehi*,Tyler Zuber,RP,FA,26,,
+20387,*041mb*,Anthony Kay,SP,FA,26,,
+20395,*04eie*,Nick Margevicius,SP,FA,25,,
+20447,*04ywp*,Enoli Paredes,RP,FA,26,,
+20631,*03dsa*,Jordan Holloway,RP,FA,25,,
+2234,*000f0*,Kelly Johnson,"2B,3B,OF",FA,39,,
+23592,*0524m*,Brett de Geus,RP,FA,24,,
+2413,*02ytp*,Cory Rasmus,RP,FA,34,,
+2608,*01cgs*,Jhoulys Chacin,RP,FA,34,,
+2830,*00qrf*,Travis Snider,OF,FA,33,,
+2852,*01c5r*,Chris Marrero,"1B,OF",FA,33,,
+2918,*000jy*,Angel Pagan,OF,FA,40,,
+304,*0003j*,Kerry Wood,RP,FA,44,,
+3188,*013vo*,Luis Cruz,3B,FA,37,,
+3237,*02nho*,T.J. McFarland,RP,FA,32,,
+3950,*025hp*,Matt Magill,RP,FA,32,,
+4138,*0008r*,Carlos Villanueva,RP,FA,38,,
+4301,*025ko*,Justin Wilson,RP,FA,34,,
+4556,*00009*,James Loney,1B,FA,37,,
+4567,*02ymd*,Josh Johnson,SS,FA,36,,
+5199,*00qrj*,Taylor Teagarden,C,FA,38,,
+5358,*021hr*,Jose Alvarez,RP,FA,32,,
+5503,*01shs*,Corban Joseph,2B,FA,33,,
+5535,*013u9*,Phil Coke,RP,FA,39,,
+5588,*004dk*,Mitch Maier,OF,FA,39,,
+5841,*01cxc*,Fautino De Los Santos,RP,FA,35,,
+5975,*000bq*,Jonathan Papelbon,RP,FA,41,,
+6086,*013uk*,Casey McGehee,3B,FA,39,,
+6201,*0008v*,Nate Schierholtz,OF,FA,37,,
+6387,*0009s*,Michael Bourn,OF,FA,39,,
+7087,*01ubf*,Caleb Joseph,C,FA,35,,
+7185,*01glp*,Logan Forsythe,3B,FA,34,,
+7216,*01sro*,Cesar Puello,OF,FA,30,,
+7432,*01s97*,Jay Jackson,RP,FA,34,,
+7872,*01s8w*,Tyson Ross,SP,FA,34,,
+7996,*01sgc*,Jose Martinez,OF,FA,33,,
+8211,*01sg4*,Steven Hill,C,FA,36,,
+8346,*00035*,Jared Burton,RP,FA,40,,
+8392,*01s92*,Daniel Descalso,2B,FA,35,,
+8434,*01c1w*,Brett Wallace,3B,FA,35,,
+8841,*01chu*,Ramiro Pena,2B,FA,36,,
+8844,*01dom*,Antonio Bastardo,RP,FA,36,,
+9174,*01fcp*,Casey Kelly,RP,FA,32,,
+9331,*01c1i*,Jason Donald,SS,FA,37,,
+9433,*02hgc*,Dustin Garneau,C,FA,34,,
+9632,*01sb6*,Brett Jackson,OF,FA,33,,
+9895,*022vs*,Chris Rusin,RP,FA,35,,
+sa455436,*01ubn*,Zack Cox,3B,FA,32,,
+sa501726,*02b2j*,Mark Appel,SP,FA,30,,
+sa502078,*02i1m*,Daniel Rosenbaum,SP,FA,34,,
+sa828669,*03d6p*,Grant Holmes,SP,FA,25,,
+sa857840,*03pjg*,Kyle Holder,SS,FA,27,,
+sa872856,*03g4b*,Anderson Espinoza,SP,FA,23,,
+sa875054,*03qlb*,Thomas Szapucki,RP,FA,25,,
+sa914200,*03pzm*,Lucius Fox,SS,FA,24,,
+sa917932,*03zce*,Blake Rutherford,OF,FA,24,,
