@@ -1,5 +1,4 @@
 ID,Player,Team,Position,%D,ADP
-*02i3o*,Aaron Nola,PHI,SP,100%,32.86
 *02mwk*,Jose Berrios,TOR,SP,100%,60.37
 *02yg3*,Frankie Montas,OAK,SP,100%,76.62
 *02x0f*,Sean Manaea,OAK,SP,100%,131.87
@@ -10,10 +9,8 @@ ID,Player,Team,Position,%D,ADP
 *005jn*,Charlie Morton,ATL,SP,100%,87.01
 *02bwg*,Kyle Hendricks,CHC,SP,100%,233.28
 *029si*,Eduardo Rodriguez,DET,SP,100%,139.19
-*01svq*,Manny Machado,SD,"3B,INF",100%,26.09
 *04auj*,Framber Valdez,HOU,SP,100%,125.39
 *02hg4*,Marcus Stroman,CHC,SP,100%,157.11
-*04yfw*,Alek Manoah,TOR,SP,100%,79.28
 *000wm*,Adam Wainwright,STL,SP,100%,172.99
 *04n0m*,Logan Gilbert,SEA,SP,100%,140.26
 *02xik*,Hyun Jin Ryu,TOR,SP,100%,178.97
@@ -21,7 +18,6 @@ ID,Player,Team,Position,%D,ADP
 *02but*,Anthony DeSclafani,SF,SP,100%,202.46
 *03dbo*,Jordan Montgomery,NYY,SP,100%,190.5
 *03111*,Marco Gonzales,SEA,SP,94%,275.53
-*041qo*,Zac Gallen,ARI,SP,100%,117.93
 *01uut*,Dan Straily,ARI,"SP,RP",23%,574.14
 *0425t*,Bailey Ober,MIN,SP,98%,263.21
 *041qr*,Aaron Civale,CLE,SP,100%,219.95
@@ -32,9 +28,7 @@ ID,Player,Team,Position,%D,ADP
 *04ptt*,Tarik Skubal,DET,SP,100%,173.17
 *02n5v*,Chris Flexen,SEA,SP,92%,296.03
 *03yxh*,Cal Quantrill,CLE,"SP,RP",99%,232.19
-*041m0*,Ian Anderson,ATL,SP,100%,133.13
 *03et8*,Ranger Suarez,PHI,"SP,RP",100%,191.47
-*0440h*,Jose Urquidy,HOU,SP,100%,191.61
 *0005k*,Zack Greinke,KC,SP,90%,301.28
 *025dq*,Taijuan Walker,NYM,SP,91%,301.52
 *04ml0*,Yusei Kikuchi,TOR,SP,89%,303.2
@@ -86,7 +80,6 @@ ID,Player,Team,Position,%D,ADP
 *01srb*,Jameson Taillon,NYY,SP,92%,281.48
 *000dp*,Justin Verlander,HOU,SP,100%,105.13
 *00031*,Joey Votto,CIN,"1B,INF",100%,146.35
-*04ug5*,Emmanuel Clase,CLE,RP,100%,102.69
 *041sq*,Tommy Edman,STL,"2B,INF,OF",100%,107.75
 *02mwq*,Zach Eflin,PHI,SP,59%,382.37
 *041m9*,Dane Dunning,TEX,SP,77%,343.69
@@ -169,6 +162,7 @@ ID,Player,Team,Position,%D,ADP
 *01lum*,Justin Turner,LAD,"3B,INF",100%,175.62
 *03c97*,Domingo German,NYY,SP,75%,367.03
 *03oh0*,Willson Contreras,CHC,C,100%,147.53
+*0310n*,Ryan McMahon,COL,"2B,3B,INF",100%,181.27
 *0310z*,J.P. Crawford,SEA,"SS,INF",83%,303.43
 *01skh*,Will Smith,ATL,RP,100%,147.55
 *02mzg*,Max Muncy,LAD,"1B,2B,INF",100%,112.2
@@ -221,7 +215,6 @@ ID,Player,Team,Position,%D,ADP
 *03bin*,Nestor Cortes Jr.,NYY,"SP,RP",91%,313.04
 *03qjv*,Harrison Bader,STL,OF,98%,245.59
 *03nru*,Jesus Sanchez,MIA,OF,100%,230.54
-*04ggr*,Jarred Kelenic,SEA,OF,100%,124.89
 *02jh6*,Eugenio Suarez,SEA,"3B,SS,INF",100%,188.78
 *0260w*,Matt Barnes,BOS,RP,88%,294.31
 *04eek*,Griffin Canning,LAA,SP,33%,545.63
