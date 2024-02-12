@@ -1,0 +1,1188 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.0.38">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>test_league_keeper_values</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+span.underline{text-decoration: underline;}
+div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+
+<script src="test_league_keeper_values_files/libs/clipboard/clipboard.min.js"></script>
+<script src="test_league_keeper_values_files/libs/quarto-html/quarto.js"></script>
+<script src="test_league_keeper_values_files/libs/quarto-html/popper.min.js"></script>
+<script src="test_league_keeper_values_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="test_league_keeper_values_files/libs/quarto-html/anchor.min.js"></script>
+<link href="test_league_keeper_values_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="test_league_keeper_values_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="test_league_keeper_values_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="test_league_keeper_values_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="test_league_keeper_values_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js" integrity="sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+<script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
+
+
+</head>
+
+<body class="fullcontent">
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+
+<main class="content" id="quarto-document-content">
+
+
+
+<div class="cell" data-execution_count="30">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> numpy <span class="im">as</span> np</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell" data-execution_count="43">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Cargar las stats de los players</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>pitch_stats <span class="op">=</span> pd.read_csv(<span class="st">"./data/league/pitch_stats.csv"</span>, index_col<span class="op">=</span><span class="dv">0</span>)</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>bats_stats <span class="op">=</span> pd.read_csv(<span class="st">"./data/league/bats_stats.csv"</span>, index_col<span class="op">=</span><span class="dv">0</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell" data-execution_count="31">
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>bats <span class="op">=</span> pd.read_csv(<span class="st">"data/league/my_team_batters.csv"</span>, header<span class="op">=</span><span class="dv">1</span>)</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>pitchers <span class="op">=</span> pd.read_csv(<span class="st">"data/league/my_team_pitchers.csv"</span>, header<span class="op">=</span><span class="dv">1</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<section id="primera-opcion" class="level1">
+<h1>Primera Opcion</h1>
+<p>Keepear un jugador tiene un costo basado en su costo de ronda del draft: - Minors: 0 - 30 - 21: 1 - 20 -16: 2 - 15 - 11: 3 - 10 - 6: 4 - 5 - 1: 5</p>
+<p>Total de non-minors: 10</p>
+<div class="cell" data-execution_count="32">
+<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Define a function to get the cost of a player</span></span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> get_cost(salary):</span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> salary <span class="op">&gt;=</span> <span class="dv">21</span>:</span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span> <span class="dv">1</span></span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a>    <span class="cf">elif</span> salary <span class="op">&gt;=</span> <span class="dv">16</span>:</span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span> <span class="dv">2</span></span>
+<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a>    <span class="cf">elif</span> salary <span class="op">&gt;=</span> <span class="dv">11</span>:</span>
+<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span> <span class="dv">3</span></span>
+<span id="cb4-9"><a href="#cb4-9" aria-hidden="true" tabindex="-1"></a>    <span class="cf">elif</span> salary <span class="op">&gt;=</span> <span class="dv">6</span>:</span>
+<span id="cb4-10"><a href="#cb4-10" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span> <span class="dv">4</span></span>
+<span id="cb4-11"><a href="#cb4-11" aria-hidden="true" tabindex="-1"></a>    <span class="cf">else</span>:</span>
+<span id="cb4-12"><a href="#cb4-12" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span> <span class="dv">5</span></span>
+<span id="cb4-13"><a href="#cb4-13" aria-hidden="true" tabindex="-1"></a>    </span>
+<span id="cb4-14"><a href="#cb4-14" aria-hidden="true" tabindex="-1"></a><span class="co"># Assign a cost to each player</span></span>
+<span id="cb4-15"><a href="#cb4-15" aria-hidden="true" tabindex="-1"></a>bats[<span class="st">"cost"</span>] <span class="op">=</span> bats[<span class="st">"Salary"</span>].<span class="bu">apply</span>(get_cost)</span>
+<span id="cb4-16"><a href="#cb4-16" aria-hidden="true" tabindex="-1"></a><span class="co"># Fix rookie cost to 0</span></span>
+<span id="cb4-17"><a href="#cb4-17" aria-hidden="true" tabindex="-1"></a>bats.loc[bats.Status <span class="op">==</span> <span class="st">"Min"</span>, <span class="st">"cost"</span>] <span class="op">=</span> <span class="dv">0</span></span>
+<span id="cb4-18"><a href="#cb4-18" aria-hidden="true" tabindex="-1"></a>pitchers[<span class="st">"cost"</span>] <span class="op">=</span> pitchers[<span class="st">"Salary"</span>].<span class="bu">apply</span>(get_cost)</span>
+<span id="cb4-19"><a href="#cb4-19" aria-hidden="true" tabindex="-1"></a><span class="co"># Fix rookie cost to 0</span></span>
+<span id="cb4-20"><a href="#cb4-20" aria-hidden="true" tabindex="-1"></a>pitchers.loc[pitchers.Status <span class="op">==</span> <span class="st">"Min"</span>, <span class="st">"cost"</span>] <span class="op">=</span> <span class="dv">0</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell" data-execution_count="35">
+<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Compile the data into a single dataframe (Keep only name, cost, position and ID)</span></span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a>players <span class="op">=</span> pd.concat([bats[[<span class="st">"Player"</span>, <span class="st">"cost"</span>, <span class="st">"Eligible"</span>, <span class="st">"ID"</span>]], pitchers[[<span class="st">"Player"</span>, <span class="st">"cost"</span>, <span class="st">"Eligible"</span>, <span class="st">"ID"</span>]]])</span>
+<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a>players.sort_values(<span class="st">"cost"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="35">
+
+<div>
+
+<table class="dataframe table table-sm table-striped">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Player</th>
+      <th>cost</th>
+      <th>Eligible</th>
+      <th>ID</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>21</th>
+      <td>Jasson Dominguez</td>
+      <td>0</td>
+      <td>OF</td>
+      <td>*050c3*</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>Julio Rodriguez</td>
+      <td>0</td>
+      <td>OF</td>
+      <td>*04fhb*</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>Roansy Contreras</td>
+      <td>0</td>
+      <td>SP</td>
+      <td>*04b3a*</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>Kahlil Watson</td>
+      <td>0</td>
+      <td>SS,INF</td>
+      <td>*05rau*</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>Anthony Volpe</td>
+      <td>0</td>
+      <td>SS,INF</td>
+      <td>*04y9p*</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>Oswald Peraza</td>
+      <td>0</td>
+      <td>SS,INF</td>
+      <td>*04g7n*</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>CJ Abrams</td>
+      <td>0</td>
+      <td>2B,SS,INF</td>
+      <td>*04qk8*</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>Adley Rutschman</td>
+      <td>0</td>
+      <td>C</td>
+      <td>*04q2n*</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>Grayson Rodriguez</td>
+      <td>0</td>
+      <td>SP</td>
+      <td>*04pko*</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Ryan Helsley</td>
+      <td>1</td>
+      <td>RP</td>
+      <td>*03ql5*</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>Joe Jimenez</td>
+      <td>1</td>
+      <td>RP</td>
+      <td>*03as0*</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>Brooks Raley</td>
+      <td>1</td>
+      <td>RP</td>
+      <td>*01vxp*</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>Jorge Lopez</td>
+      <td>1</td>
+      <td>SP,RP</td>
+      <td>*02brf*</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>Eric Lauer</td>
+      <td>1</td>
+      <td>SP</td>
+      <td>*031ey*</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>Logan Gilbert</td>
+      <td>1</td>
+      <td>SP</td>
+      <td>*04n0m*</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Jose Leclerc</td>
+      <td>1</td>
+      <td>RP</td>
+      <td>*030x2*</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Albert Pujols</td>
+      <td>1</td>
+      <td>1B,INF</td>
+      <td>*000d4*</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Jose Miranda</td>
+      <td>1</td>
+      <td>1B,2B,3B,INF</td>
+      <td>*041qh*</td>
+    </tr>
+    <tr>
+      <th>0</th>
+      <td>Logan O'Hoppe</td>
+      <td>1</td>
+      <td>C</td>
+      <td>*04q56*</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>Gunnar Henderson</td>
+      <td>1</td>
+      <td>3B,SS,INF</td>
+      <td>*050w9*</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>Jordan Groshans</td>
+      <td>1</td>
+      <td>3B,SS,INF</td>
+      <td>*04n8x*</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>Byron Buxton</td>
+      <td>2</td>
+      <td>OF</td>
+      <td>*02i2k*</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>Yandy Diaz</td>
+      <td>2</td>
+      <td>1B,3B,INF</td>
+      <td>*03m6o*</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>Adam Wainwright</td>
+      <td>2</td>
+      <td>SP</td>
+      <td>*000wm*</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>Luis Severino</td>
+      <td>2</td>
+      <td>SP,RP</td>
+      <td>*03ab0*</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>Patrick Sandoval</td>
+      <td>2</td>
+      <td>SP</td>
+      <td>*03qpi*</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Alex Lange</td>
+      <td>2</td>
+      <td>RP</td>
+      <td>*03yui*</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>Jazz Chisholm Jr.</td>
+      <td>3</td>
+      <td>2B,SS,INF</td>
+      <td>*045qo*</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>Lucas Giolito</td>
+      <td>3</td>
+      <td>SP</td>
+      <td>*02i37*</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Gavin Lux</td>
+      <td>3</td>
+      <td>2B,SS,INF,OF</td>
+      <td>*041ai*</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Jack Flaherty</td>
+      <td>3</td>
+      <td>SP</td>
+      <td>*03d6w*</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Corbin Burnes</td>
+      <td>3</td>
+      <td>SP</td>
+      <td>*041rd*</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Ian Happ</td>
+      <td>3</td>
+      <td>OF</td>
+      <td>*03nmw*</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Mike Clevinger</td>
+      <td>4</td>
+      <td>SP</td>
+      <td>*02bsw*</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Josh Hader</td>
+      <td>4</td>
+      <td>RP</td>
+      <td>*02n96*</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>Kyle Tucker</td>
+      <td>4</td>
+      <td>OF</td>
+      <td>*03pir*</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Francisco Lindor</td>
+      <td>5</td>
+      <td>SS,INF</td>
+      <td>*02611*</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>Trevor Story</td>
+      <td>5</td>
+      <td>2B,SS,INF</td>
+      <td>*02bqh*</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Edwin Diaz</td>
+      <td>5</td>
+      <td>RP</td>
+      <td>*02my5*</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Mike Trout</td>
+      <td>5</td>
+      <td>OF</td>
+      <td>*01s8u*</td>
+    </tr>
+    <tr>
+      <th>0</th>
+      <td>Shohei Ohtani</td>
+      <td>5</td>
+      <td>UT,SP</td>
+      <td>*02yc4*</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Aaron Judge</td>
+      <td>5</td>
+      <td>OF</td>
+      <td>*02z0s*</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Anthony Rendon</td>
+      <td>5</td>
+      <td>3B,INF</td>
+      <td>*01tt9*</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+</section>
+<section id="segunda-opcion" class="level1">
+<h1>Segunda Opcion</h1>
+<p>Usar la ronda como base para el costo de keep: - Minors: 0 - 30 - 21: 1 - 20 - 16: 5 - 15 - 11: 10 - 10 - 6: 25 - 5 - 1: 40</p>
+<p>Luego add performance bonus if more than <code>170</code> at bats or <code>60</code> innings pitched for starters and <code>30</code> innings pitched for relievers.</p>
+<p><strong>Batters:</strong> - <strong>HR</strong>: 1/6 - <strong>RBI</strong>: 1/10 - <strong>R</strong>: 1/10 - <strong>H</strong>: 1/15 - <strong>SBN</strong>: 1/2 - <strong>SO</strong>: - 1/10 - <strong>BB</strong>: - 1/7 - <strong>AVG</strong>: 100/3 - <strong>OBP</strong>: 100/4 - <strong>SLG</strong>: 100/5</p>
+<p><strong>Pitchers:</strong> - <strong>IP</strong>: 1/18 - <strong>H</strong>: (200 - x) / 10 if SP (80 - x) / 10 if RP - <strong>BB</strong>: (80 - x) / 10 if SP (50 - x) / 10 if RP - <strong>K</strong>: 1/18 if SP 1/8 if RP - <strong>ER</strong>: (100 - x) / 10 if SP (40 - x) / 10 if RP - <strong>RA</strong>: 1/6.5 - <strong>QS</strong>: 1/20 - <strong>NSV</strong>: 1/20 - <strong>NSVH</strong>: 1/30</p>
+<p>Luego el performance bonus se normaliza de tal foma que el mejor jugador tenga un valor de 20 (Costo total 60 si fue primer round pick) y se aggrega la ronda del draft.</p>
+<div class="cell" data-execution_count="95">
+<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Define a function to get the base cost of a player</span></span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> get_cost_base(salary):</span>
+<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> salary <span class="op">&gt;=</span> <span class="dv">21</span>:</span>
+<span id="cb6-4"><a href="#cb6-4" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span> <span class="dv">1</span></span>
+<span id="cb6-5"><a href="#cb6-5" aria-hidden="true" tabindex="-1"></a>    <span class="cf">elif</span> salary <span class="op">&gt;=</span> <span class="dv">16</span>:</span>
+<span id="cb6-6"><a href="#cb6-6" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span> <span class="dv">5</span></span>
+<span id="cb6-7"><a href="#cb6-7" aria-hidden="true" tabindex="-1"></a>    <span class="cf">elif</span> salary <span class="op">&gt;=</span> <span class="dv">11</span>:</span>
+<span id="cb6-8"><a href="#cb6-8" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span> <span class="dv">10</span></span>
+<span id="cb6-9"><a href="#cb6-9" aria-hidden="true" tabindex="-1"></a>    <span class="cf">elif</span> salary <span class="op">&gt;=</span> <span class="dv">6</span>:</span>
+<span id="cb6-10"><a href="#cb6-10" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span> <span class="dv">25</span></span>
+<span id="cb6-11"><a href="#cb6-11" aria-hidden="true" tabindex="-1"></a>    <span class="cf">else</span>:</span>
+<span id="cb6-12"><a href="#cb6-12" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span> <span class="dv">40</span></span>
+<span id="cb6-13"><a href="#cb6-13" aria-hidden="true" tabindex="-1"></a>    </span>
+<span id="cb6-14"><a href="#cb6-14" aria-hidden="true" tabindex="-1"></a><span class="co"># Performance bonus:</span></span>
+<span id="cb6-15"><a href="#cb6-15" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-16"><a href="#cb6-16" aria-hidden="true" tabindex="-1"></a><span class="co">## Bats</span></span>
+<span id="cb6-17"><a href="#cb6-17" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> get_perf_bonus_bats(player_id, bats_stats):</span>
+<span id="cb6-18"><a href="#cb6-18" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Check if player is in list</span></span>
+<span id="cb6-19"><a href="#cb6-19" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> <span class="kw">not</span> (player_id <span class="kw">in</span> bats_stats.index):</span>
+<span id="cb6-20"><a href="#cb6-20" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span> <span class="dv">0</span></span>
+<span id="cb6-21"><a href="#cb6-21" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Get the player's stats</span></span>
+<span id="cb6-22"><a href="#cb6-22" aria-hidden="true" tabindex="-1"></a>    player <span class="op">=</span> bats_stats.loc[player_id]</span>
+<span id="cb6-23"><a href="#cb6-23" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Check limits </span></span>
+<span id="cb6-24"><a href="#cb6-24" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> player[<span class="st">"AB"</span>] <span class="op">&lt;</span> <span class="dv">170</span>:</span>
+<span id="cb6-25"><a href="#cb6-25" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span> <span class="dv">0</span></span>
+<span id="cb6-26"><a href="#cb6-26" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Calculate the bonus</span></span>
+<span id="cb6-27"><a href="#cb6-27" aria-hidden="true" tabindex="-1"></a>    bonus <span class="op">=</span> <span class="dv">0</span></span>
+<span id="cb6-28"><a href="#cb6-28" aria-hidden="true" tabindex="-1"></a>    bonus <span class="op">+=</span> player.HR <span class="op">*</span> (<span class="dv">1</span><span class="op">/</span><span class="dv">6</span>)</span>
+<span id="cb6-29"><a href="#cb6-29" aria-hidden="true" tabindex="-1"></a>    bonus <span class="op">+=</span> player.RBI <span class="op">*</span> (<span class="dv">1</span><span class="op">/</span><span class="dv">10</span>)</span>
+<span id="cb6-30"><a href="#cb6-30" aria-hidden="true" tabindex="-1"></a>    bonus <span class="op">+=</span> player.R <span class="op">*</span> (<span class="dv">1</span><span class="op">/</span><span class="dv">10</span>)</span>
+<span id="cb6-31"><a href="#cb6-31" aria-hidden="true" tabindex="-1"></a>    bonus <span class="op">+=</span> player.H <span class="op">*</span> (<span class="dv">1</span><span class="op">/</span><span class="dv">15</span>)</span>
+<span id="cb6-32"><a href="#cb6-32" aria-hidden="true" tabindex="-1"></a>    bonus <span class="op">+=</span> player.SBN <span class="op">*</span> (<span class="dv">1</span><span class="op">/</span><span class="dv">2</span>)</span>
+<span id="cb6-33"><a href="#cb6-33" aria-hidden="true" tabindex="-1"></a>    bonus <span class="op">-=</span> player.SO <span class="op">*</span> (<span class="dv">1</span><span class="op">/</span><span class="dv">10</span>)</span>
+<span id="cb6-34"><a href="#cb6-34" aria-hidden="true" tabindex="-1"></a>    bonus <span class="op">+=</span> player.BB <span class="op">*</span> (<span class="dv">1</span><span class="op">/</span><span class="dv">2</span>)</span>
+<span id="cb6-35"><a href="#cb6-35" aria-hidden="true" tabindex="-1"></a>    bonus <span class="op">+=</span> player.AVG <span class="op">*</span> (<span class="dv">100</span><span class="op">/</span><span class="dv">3</span>)</span>
+<span id="cb6-36"><a href="#cb6-36" aria-hidden="true" tabindex="-1"></a>    bonus <span class="op">+=</span> player.OBP <span class="op">*</span> (<span class="dv">100</span><span class="op">/</span><span class="dv">4</span>)</span>
+<span id="cb6-37"><a href="#cb6-37" aria-hidden="true" tabindex="-1"></a>    bonus <span class="op">+=</span> player.SLG <span class="op">*</span> (<span class="dv">100</span><span class="op">/</span><span class="dv">5</span>)</span>
+<span id="cb6-38"><a href="#cb6-38" aria-hidden="true" tabindex="-1"></a>    </span>
+<span id="cb6-39"><a href="#cb6-39" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> bonus</span>
+<span id="cb6-40"><a href="#cb6-40" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-41"><a href="#cb6-41" aria-hidden="true" tabindex="-1"></a><span class="co">## Pitchers</span></span>
+<span id="cb6-42"><a href="#cb6-42" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> get_perf_bonus_pitchers(player_id, pitch_stats):</span>
+<span id="cb6-43"><a href="#cb6-43" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Check if player is in list</span></span>
+<span id="cb6-44"><a href="#cb6-44" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> <span class="kw">not</span> (player_id <span class="kw">in</span> pitch_stats.index):</span>
+<span id="cb6-45"><a href="#cb6-45" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span> <span class="dv">0</span></span>
+<span id="cb6-46"><a href="#cb6-46" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Get the player's stats</span></span>
+<span id="cb6-47"><a href="#cb6-47" aria-hidden="true" tabindex="-1"></a>    player <span class="op">=</span> pitch_stats.loc[player_id]</span>
+<span id="cb6-48"><a href="#cb6-48" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Check limits </span></span>
+<span id="cb6-49"><a href="#cb6-49" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Identify SP and RP</span></span>
+<span id="cb6-50"><a href="#cb6-50" aria-hidden="true" tabindex="-1"></a>    sp <span class="op">=</span> <span class="st">"SP"</span> <span class="kw">in</span> player[<span class="st">"Position"</span>]  </span>
+<span id="cb6-51"><a href="#cb6-51" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> sp:</span>
+<span id="cb6-52"><a href="#cb6-52" aria-hidden="true" tabindex="-1"></a>        <span class="cf">if</span> player[<span class="st">"IP"</span>] <span class="op">&lt;</span> <span class="dv">60</span>:</span>
+<span id="cb6-53"><a href="#cb6-53" aria-hidden="true" tabindex="-1"></a>            <span class="cf">return</span> <span class="dv">0</span></span>
+<span id="cb6-54"><a href="#cb6-54" aria-hidden="true" tabindex="-1"></a>    <span class="cf">else</span>:</span>
+<span id="cb6-55"><a href="#cb6-55" aria-hidden="true" tabindex="-1"></a>        <span class="cf">if</span> player[<span class="st">"IP"</span>] <span class="op">&lt;</span> <span class="dv">30</span>:</span>
+<span id="cb6-56"><a href="#cb6-56" aria-hidden="true" tabindex="-1"></a>            <span class="cf">return</span> <span class="dv">0</span></span>
+<span id="cb6-57"><a href="#cb6-57" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Calculate some extra stats</span></span>
+<span id="cb6-58"><a href="#cb6-58" aria-hidden="true" tabindex="-1"></a>    ER <span class="op">=</span> player.ERA <span class="op">*</span> player.IP <span class="op">/</span> <span class="dv">9</span></span>
+<span id="cb6-59"><a href="#cb6-59" aria-hidden="true" tabindex="-1"></a>    K <span class="op">=</span> player[<span class="st">"K/9"</span>] <span class="op">*</span> player.IP <span class="op">/</span> <span class="dv">9</span> </span>
+<span id="cb6-60"><a href="#cb6-60" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Calculate the bonus</span></span>
+<span id="cb6-61"><a href="#cb6-61" aria-hidden="true" tabindex="-1"></a>    bonus <span class="op">=</span> <span class="dv">0</span></span>
+<span id="cb6-62"><a href="#cb6-62" aria-hidden="true" tabindex="-1"></a>    bonus <span class="op">+=</span> player.IP <span class="op">*</span> <span class="dv">1</span><span class="op">/</span><span class="dv">18</span></span>
+<span id="cb6-63"><a href="#cb6-63" aria-hidden="true" tabindex="-1"></a>    bonus <span class="op">+=</span> (<span class="dv">200</span> <span class="op">-</span> player.H) <span class="op">/</span> <span class="dv">10</span> <span class="cf">if</span> sp <span class="cf">else</span> (<span class="dv">80</span> <span class="op">-</span> player.H) <span class="op">/</span> <span class="dv">10</span> </span>
+<span id="cb6-64"><a href="#cb6-64" aria-hidden="true" tabindex="-1"></a>    bonus <span class="op">+=</span> (<span class="dv">80</span> <span class="op">-</span> player.BB) <span class="op">/</span> <span class="dv">10</span> <span class="cf">if</span> sp <span class="cf">else</span>  (<span class="dv">50</span> <span class="op">-</span> player.BB) <span class="op">/</span> <span class="dv">10</span></span>
+<span id="cb6-65"><a href="#cb6-65" aria-hidden="true" tabindex="-1"></a>    bonus <span class="op">+=</span> K <span class="op">*</span><span class="dv">1</span><span class="op">/</span><span class="dv">18</span> <span class="cf">if</span> sp <span class="cf">else</span> K <span class="op">*</span> <span class="dv">1</span><span class="op">/</span><span class="dv">8</span> </span>
+<span id="cb6-66"><a href="#cb6-66" aria-hidden="true" tabindex="-1"></a>    bonus <span class="op">+=</span> (<span class="dv">100</span> <span class="op">-</span> ER) <span class="op">/</span> <span class="dv">10</span> <span class="cf">if</span> sp <span class="cf">else</span> (<span class="dv">40</span> <span class="op">-</span> ER) <span class="op">/</span> <span class="dv">10</span></span>
+<span id="cb6-67"><a href="#cb6-67" aria-hidden="true" tabindex="-1"></a>    bonus <span class="op">+=</span> player.RA <span class="op">*</span> <span class="dv">1</span><span class="op">/</span><span class="fl">6.5</span></span>
+<span id="cb6-68"><a href="#cb6-68" aria-hidden="true" tabindex="-1"></a>    bonus <span class="op">+=</span> player.QS <span class="op">*</span> <span class="dv">1</span><span class="op">/</span><span class="dv">20</span></span>
+<span id="cb6-69"><a href="#cb6-69" aria-hidden="true" tabindex="-1"></a>    bonus <span class="op">+=</span> player.NS <span class="op">*</span> <span class="dv">1</span><span class="op">/</span><span class="dv">20</span></span>
+<span id="cb6-70"><a href="#cb6-70" aria-hidden="true" tabindex="-1"></a>    bonus <span class="op">+=</span> player[<span class="st">"NS.1"</span>] <span class="op">*</span> <span class="dv">1</span><span class="op">/</span><span class="dv">30</span></span>
+<span id="cb6-71"><a href="#cb6-71" aria-hidden="true" tabindex="-1"></a>    </span>
+<span id="cb6-72"><a href="#cb6-72" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> bonus</span>
+<span id="cb6-73"><a href="#cb6-73" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-74"><a href="#cb6-74" aria-hidden="true" tabindex="-1"></a><span class="co"># Assign a cost to each player</span></span>
+<span id="cb6-75"><a href="#cb6-75" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> player_cost(bats, pitchers, bats_stats, pitch_stats):</span>
+<span id="cb6-76"><a href="#cb6-76" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Create a dataframe with player names, id, salary and position</span></span>
+<span id="cb6-77"><a href="#cb6-77" aria-hidden="true" tabindex="-1"></a>    players <span class="op">=</span> pd.concat([bats[[<span class="st">"Player"</span>, <span class="st">"ID"</span>, <span class="st">"Salary"</span>, <span class="st">"Eligible"</span>]], </span>
+<span id="cb6-78"><a href="#cb6-78" aria-hidden="true" tabindex="-1"></a>                        pitchers[[<span class="st">"Player"</span>, <span class="st">"ID"</span>, <span class="st">"Salary"</span>, <span class="st">"Eligible"</span>]]])</span>
+<span id="cb6-79"><a href="#cb6-79" aria-hidden="true" tabindex="-1"></a>    </span>
+<span id="cb6-80"><a href="#cb6-80" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Add the base cost</span></span>
+<span id="cb6-81"><a href="#cb6-81" aria-hidden="true" tabindex="-1"></a>    players[<span class="st">"cost_base"</span>] <span class="op">=</span> players[<span class="st">"Salary"</span>].<span class="bu">apply</span>(get_cost_base)</span>
+<span id="cb6-82"><a href="#cb6-82" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-83"><a href="#cb6-83" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Add the performance bonus</span></span>
+<span id="cb6-84"><a href="#cb6-84" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Batting</span></span>
+<span id="cb6-85"><a href="#cb6-85" aria-hidden="true" tabindex="-1"></a>    players[<span class="st">"perf_bonus_bat"</span>] <span class="op">=</span>  players.ID.<span class="bu">apply</span>(<span class="kw">lambda</span> x: get_perf_bonus_bats(x,bats_stats))</span>
+<span id="cb6-86"><a href="#cb6-86" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Pitching</span></span>
+<span id="cb6-87"><a href="#cb6-87" aria-hidden="true" tabindex="-1"></a>    players[<span class="st">"perf_bonus_pitch"</span>] <span class="op">=</span>  players.ID.<span class="bu">apply</span>(<span class="kw">lambda</span> x: get_perf_bonus_pitchers(x, pitch_stats))</span>
+<span id="cb6-88"><a href="#cb6-88" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Normalize the performance bonus for bats abd pitchers</span></span>
+<span id="cb6-89"><a href="#cb6-89" aria-hidden="true" tabindex="-1"></a>    players[<span class="st">"perf_bonus_bat"</span>] <span class="op">=</span> <span class="dv">20</span> <span class="op">*</span> (players[<span class="st">"perf_bonus_bat"</span>] <span class="op">/</span> players[<span class="st">"perf_bonus_bat"</span>].<span class="bu">max</span>())</span>
+<span id="cb6-90"><a href="#cb6-90" aria-hidden="true" tabindex="-1"></a>    players[<span class="st">"perf_bonus_pitch"</span>] <span class="op">=</span> <span class="dv">20</span> <span class="op">*</span> (players[<span class="st">"perf_bonus_pitch"</span>] <span class="op">/</span> players[<span class="st">"perf_bonus_pitch"</span>].<span class="bu">max</span>())</span>
+<span id="cb6-91"><a href="#cb6-91" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Add the total cost</span></span>
+<span id="cb6-92"><a href="#cb6-92" aria-hidden="true" tabindex="-1"></a>    players[<span class="st">"cost"</span>] <span class="op">=</span> players[<span class="st">"cost_base"</span>] <span class="op">+</span> players[<span class="st">"perf_bonus_bat"</span>] <span class="op">+</span> players[<span class="st">"perf_bonus_pitch"</span>]</span>
+<span id="cb6-93"><a href="#cb6-93" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-94"><a href="#cb6-94" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> players</span>
+<span id="cb6-95"><a href="#cb6-95" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-96"><a href="#cb6-96" aria-hidden="true" tabindex="-1"></a>player_cost(bats, pitchers, bats_stats, pitch_stats).sort_values(<span class="st">"cost"</span>, ascending<span class="op">=</span><span class="va">False</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="95">
+
+<div>
+
+<table class="dataframe table table-sm table-striped">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Player</th>
+      <th>ID</th>
+      <th>Salary</th>
+      <th>Eligible</th>
+      <th>cost_base</th>
+      <th>perf_bonus_bat</th>
+      <th>perf_bonus_pitch</th>
+      <th>cost</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Shohei Ohtani</td>
+      <td>*02yc4*</td>
+      <td>5</td>
+      <td>UT,SP</td>
+      <td>40</td>
+      <td>13.168943</td>
+      <td>16.527668</td>
+      <td>69.696612</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Aaron Judge</td>
+      <td>*02z0s*</td>
+      <td>4</td>
+      <td>OF</td>
+      <td>40</td>
+      <td>20.000000</td>
+      <td>0.000000</td>
+      <td>60.000000</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Edwin Diaz</td>
+      <td>*02my5*</td>
+      <td>3</td>
+      <td>RP</td>
+      <td>40</td>
+      <td>0.000000</td>
+      <td>17.347840</td>
+      <td>57.347840</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Francisco Lindor</td>
+      <td>*02611*</td>
+      <td>2</td>
+      <td>SS,INF</td>
+      <td>40</td>
+      <td>13.123279</td>
+      <td>0.000000</td>
+      <td>53.123279</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Mike Trout</td>
+      <td>*01s8u*</td>
+      <td>1</td>
+      <td>OF</td>
+      <td>40</td>
+      <td>11.944368</td>
+      <td>0.000000</td>
+      <td>51.944368</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>Trevor Story</td>
+      <td>*02bqh*</td>
+      <td>5</td>
+      <td>2B,SS,INF</td>
+      <td>40</td>
+      <td>8.567328</td>
+      <td>0.000000</td>
+      <td>48.567328</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Anthony Rendon</td>
+      <td>*01tt9*</td>
+      <td>3</td>
+      <td>3B,INF</td>
+      <td>40</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>40.000000</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>Kyle Tucker</td>
+      <td>*03pir*</td>
+      <td>9</td>
+      <td>OF</td>
+      <td>25</td>
+      <td>13.935575</td>
+      <td>0.000000</td>
+      <td>38.935575</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Josh Hader</td>
+      <td>*02n96*</td>
+      <td>6</td>
+      <td>RP</td>
+      <td>25</td>
+      <td>0.000000</td>
+      <td>13.482020</td>
+      <td>38.482020</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Mike Clevinger</td>
+      <td>*02bsw*</td>
+      <td>7</td>
+      <td>SP</td>
+      <td>25</td>
+      <td>0.000000</td>
+      <td>12.958283</td>
+      <td>37.958283</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Corbin Burnes</td>
+      <td>*041rd*</td>
+      <td>12</td>
+      <td>SP</td>
+      <td>10</td>
+      <td>0.000000</td>
+      <td>15.931419</td>
+      <td>25.931419</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Ian Happ</td>
+      <td>*03nmw*</td>
+      <td>13</td>
+      <td>OF</td>
+      <td>10</td>
+      <td>11.045442</td>
+      <td>0.000000</td>
+      <td>21.045442</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>Jorge Lopez</td>
+      <td>*02brf*</td>
+      <td>30</td>
+      <td>SP,RP</td>
+      <td>1</td>
+      <td>0.000000</td>
+      <td>20.000000</td>
+      <td>21.000000</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>Lucas Giolito</td>
+      <td>*02i37*</td>
+      <td>12</td>
+      <td>SP</td>
+      <td>10</td>
+      <td>0.000000</td>
+      <td>10.710608</td>
+      <td>20.710608</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>Luis Severino</td>
+      <td>*03ab0*</td>
+      <td>18</td>
+      <td>SP,RP</td>
+      <td>5</td>
+      <td>0.000000</td>
+      <td>15.426460</td>
+      <td>20.426460</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Gavin Lux</td>
+      <td>*041ai*</td>
+      <td>14</td>
+      <td>2B,SS,INF,OF</td>
+      <td>10</td>
+      <td>9.685441</td>
+      <td>0.000000</td>
+      <td>19.685441</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Alex Lange</td>
+      <td>*03yui*</td>
+      <td>20</td>
+      <td>RP</td>
+      <td>5</td>
+      <td>0.000000</td>
+      <td>13.452258</td>
+      <td>18.452258</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>Yandy Diaz</td>
+      <td>*03m6o*</td>
+      <td>20</td>
+      <td>1B,3B,INF</td>
+      <td>5</td>
+      <td>13.305413</td>
+      <td>0.000000</td>
+      <td>18.305413</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>Patrick Sandoval</td>
+      <td>*03qpi*</td>
+      <td>18</td>
+      <td>SP</td>
+      <td>5</td>
+      <td>0.000000</td>
+      <td>12.876568</td>
+      <td>17.876568</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>Jazz Chisholm Jr.</td>
+      <td>*045qo*</td>
+      <td>15</td>
+      <td>2B,SS,INF</td>
+      <td>10</td>
+      <td>7.675447</td>
+      <td>0.000000</td>
+      <td>17.675447</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Ryan Helsley</td>
+      <td>*03ql5*</td>
+      <td>30</td>
+      <td>RP</td>
+      <td>1</td>
+      <td>0.000000</td>
+      <td>15.361182</td>
+      <td>16.361182</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>Adam Wainwright</td>
+      <td>*000wm*</td>
+      <td>20</td>
+      <td>SP</td>
+      <td>5</td>
+      <td>0.000000</td>
+      <td>10.511673</td>
+      <td>15.511673</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>Roansy Contreras</td>
+      <td>*04b3a*</td>
+      <td>30</td>
+      <td>SP</td>
+      <td>1</td>
+      <td>0.000000</td>
+      <td>13.770923</td>
+      <td>14.770923</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>Joe Jimenez</td>
+      <td>*03as0*</td>
+      <td>30</td>
+      <td>RP</td>
+      <td>1</td>
+      <td>0.000000</td>
+      <td>13.190013</td>
+      <td>14.190013</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>Brooks Raley</td>
+      <td>*01vxp*</td>
+      <td>22</td>
+      <td>RP</td>
+      <td>1</td>
+      <td>0.000000</td>
+      <td>13.126621</td>
+      <td>14.126621</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>Eric Lauer</td>
+      <td>*031ey*</td>
+      <td>30</td>
+      <td>SP</td>
+      <td>1</td>
+      <td>0.000000</td>
+      <td>12.792317</td>
+      <td>13.792317</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>Logan Gilbert</td>
+      <td>*04n0m*</td>
+      <td>30</td>
+      <td>SP</td>
+      <td>1</td>
+      <td>0.000000</td>
+      <td>12.787062</td>
+      <td>13.787062</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>Byron Buxton</td>
+      <td>*02i2k*</td>
+      <td>16</td>
+      <td>OF</td>
+      <td>5</td>
+      <td>8.606208</td>
+      <td>0.000000</td>
+      <td>13.606208</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>Julio Rodriguez</td>
+      <td>*04fhb*</td>
+      <td>30</td>
+      <td>OF</td>
+      <td>1</td>
+      <td>11.429802</td>
+      <td>0.000000</td>
+      <td>12.429802</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>Adley Rutschman</td>
+      <td>*04q2n*</td>
+      <td>30</td>
+      <td>C</td>
+      <td>1</td>
+      <td>11.337691</td>
+      <td>0.000000</td>
+      <td>12.337691</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Jose Leclerc</td>
+      <td>*030x2*</td>
+      <td>30</td>
+      <td>RP</td>
+      <td>1</td>
+      <td>0.000000</td>
+      <td>10.983016</td>
+      <td>11.983016</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Jack Flaherty</td>
+      <td>*03d6w*</td>
+      <td>13</td>
+      <td>SP</td>
+      <td>10</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>10.000000</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Albert Pujols</td>
+      <td>*000d4*</td>
+      <td>30</td>
+      <td>1B,INF</td>
+      <td>1</td>
+      <td>8.948817</td>
+      <td>0.000000</td>
+      <td>9.948817</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Jose Miranda</td>
+      <td>*041qh*</td>
+      <td>30</td>
+      <td>1B,2B,3B,INF</td>
+      <td>1</td>
+      <td>8.143045</td>
+      <td>0.000000</td>
+      <td>9.143045</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>CJ Abrams</td>
+      <td>*04qk8*</td>
+      <td>30</td>
+      <td>2B,SS,INF</td>
+      <td>1</td>
+      <td>4.865944</td>
+      <td>0.000000</td>
+      <td>5.865944</td>
+    </tr>
+    <tr>
+      <th>0</th>
+      <td>Logan O'Hoppe</td>
+      <td>*04q56*</td>
+      <td>30</td>
+      <td>C</td>
+      <td>1</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>1.000000</td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td>Jasson Dominguez</td>
+      <td>*050c3*</td>
+      <td>30</td>
+      <td>OF</td>
+      <td>1</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>1.000000</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>Kahlil Watson</td>
+      <td>*05rau*</td>
+      <td>30</td>
+      <td>SS,INF</td>
+      <td>1</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>1.000000</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>Anthony Volpe</td>
+      <td>*04y9p*</td>
+      <td>30</td>
+      <td>SS,INF</td>
+      <td>1</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>1.000000</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>Oswald Peraza</td>
+      <td>*04g7n*</td>
+      <td>30</td>
+      <td>SS,INF</td>
+      <td>1</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>1.000000</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>Jordan Groshans</td>
+      <td>*04n8x*</td>
+      <td>30</td>
+      <td>3B,SS,INF</td>
+      <td>1</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>1.000000</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>Gunnar Henderson</td>
+      <td>*050w9*</td>
+      <td>30</td>
+      <td>3B,SS,INF</td>
+      <td>1</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>1.000000</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>Grayson Rodriguez</td>
+      <td>*04pko*</td>
+      <td>30</td>
+      <td>SP</td>
+      <td>1</td>
+      <td>0.000000</td>
+      <td>0.000000</td>
+      <td>1.000000</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+</section>
+<section id="tercera-opcion" class="level1">
+<h1>Tercera Opcion</h1>
+<p>Usar el performace bonus como base y la ronda para normalizar el valor del jugador.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> </span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    setTimeout(function() {
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      let href = ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>
